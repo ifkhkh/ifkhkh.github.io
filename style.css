@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*header*/
+header {
+    font-family: sans-serif;
+    font-weight: lighter;
+
+    text-shadow: 1px 1px 2px #171314;
+    color: #e0e0e0;;
+    background: url("image/header_background.jpg");
+    text-align: center;
+    padding: 70px;
+}
+
+header h1 {
+    font-size: 2.25em;
+    font-weight: normal;
+}
+
+header .menu {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    margin: 15px;
+    padding: 5px;
+}
+
+header .menu:hover {
+    background-color: dodgerblue;
+}
+
+/*container*/
+.container {
+    background-color: #171314;
+}
+/*pictures*/
+
+.kang-slide {
+    margin: 0 auto;
+    width: 70%;
+    position: relative;
+}
+
+
+
+.kang-slide-image {
+    width: 100%;
+    display: none;
+}
+
+.image-active {
+    display: inline-block;
+}
+
+/*btn*/
+.kang-slide-btn {
+    height: 50px;
+    width: 30px;
+    color: #fff;
+    background-color: black;
+    opacity: 0.3;
+    border: none;
+    outline: 0;
+    cursor: pointer;
+}
+
+.vertical-center {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.left {
+    left: 0;
+}
+.right {
+    right: 0;
+}
+
+/*indicators*/
+.kang-slide-indicators {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 10px;
+}
+
+.kang-slide-indi {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 5px;
+    background-color: #171314;
+    cursor: pointer;
+}
+.indi-active {
+    background-color: white;
+    opacity: 0.6;
+}
+
+
+/*footer*/
+footer {
+    font-family: sans-serif;
+    background: url("image/header_background.jpg") bottom;
+    text-align: center;
+    padding: 10px;
+    color: #e0e0e0;
+    text-shadow: 1px 1px 2px #171314;
+}
