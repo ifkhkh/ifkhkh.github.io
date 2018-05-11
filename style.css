@@ -1,6 +1,11 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: url("image/header_background.jpg") fixed;
 }
 
 /*header*/
@@ -12,7 +17,7 @@ header {
     color: #e0e0e0;;
     background: url("image/header_background.jpg");
     text-align: center;
-    padding: 70px;
+    padding: 20px;
 }
 
 header h1 {
@@ -52,7 +57,9 @@ header .menu:hover {
 }
 
 .image-active {
-    display: inline-block;
+    display: block;
+    /* 使用 inline-block 在底部会有空白 */
+    /* display: inline-block; */
 }
 
 /*btn*/
@@ -85,6 +92,7 @@ header .menu:hover {
     left: 50%;
     transform: translateX(-50%);
     bottom: 10px;
+    cursor: pointer;
 }
 
 .kang-slide-indi {
@@ -92,8 +100,8 @@ header .menu:hover {
     width: 10px;
     height: 10px;
     border-radius: 5px;
+    margin: 0 10px 0;
     background-color: #171314;
-    cursor: pointer;
 }
 .indi-active {
     background-color: white;
@@ -104,7 +112,7 @@ header .menu:hover {
 /*footer*/
 footer {
     font-family: sans-serif;
-    background: url("image/header_background.jpg") bottom;
+    /*background: url("image/header_background.jpg") bottom;*/
     text-align: center;
     padding: 10px;
     color: #e0e0e0;

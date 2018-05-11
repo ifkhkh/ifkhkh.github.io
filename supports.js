@@ -26,3 +26,4 @@ var bindEvent = (selector, eventName, callback) => {
     var element = e(selector)
     element.addEventListener(eventName, callback)
 }
+

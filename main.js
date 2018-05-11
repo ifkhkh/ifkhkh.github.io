@@ -58,11 +58,11 @@ var bindEventsBtn = () => {
 }
 
 var bindEventsIndi = () => {
-    var selector = '.kang-slide-indicators'
-    bindAll(selector, 'click', (event) => {
-        var indi = event.target
-        var slide = indi.closest('.kang-slide')
-        var index = indi.dataset.index
+    var selector = '.kang-slide-indi'
+    bindAll(selector, 'mouseover', (event) => {
+        var self = event.target
+        var index = Number(self.dataset.index)
+        var slide = self.closest('.kang-slide')
         showImageAtIndex(slide, index)
     })
 }
