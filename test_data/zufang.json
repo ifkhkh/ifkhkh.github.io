@@ -1,0 +1,8407 @@
+[
+  {
+    "info": "2室2厅",
+    "area": 67,
+    "forward": "朝南北",
+    "position": "开发区",
+    "price": 2800
+  },
+  {
+    "info": "2室2厅",
+    "area": 88,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 2800
+  },
+  {
+    "info": "2室1厅",
+    "area": 70,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2000
+  },
+  {
+    "info": "3室1厅",
+    "area": 90,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 1600
+  },
+  {
+    "info": "1室1厅",
+    "area": 50,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 2000
+  },
+  {
+    "info": "2室2厅",
+    "area": 82,
+    "forward": "朝南",
+    "position": "远洋绿地雲峰公馆对比",
+    "price": 2800
+  },
+  {
+    "info": "2室1厅",
+    "area": 68,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 1800
+  },
+  {
+    "info": "2室2厅",
+    "area": 98,
+    "forward": "朝南北",
+    "position": "科学园",
+    "price": 2800
+  },
+  {
+    "info": "1室1厅",
+    "area": 41,
+    "forward": "朝东",
+    "position": "岔路口",
+    "price": 2300
+  },
+
+  {
+    "info": "2室1厅",
+    "area": 67,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 2400
+  },
+  {
+    "info": "4户合租",
+    "area": 88,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 500
+  },
+  {
+    "info": "2室1厅",
+    "area": 68,
+    "forward": "朝南",
+    "position": "上坊镇",
+    "price": 1800
+  },
+  {
+    "info": "2室2厅",
+    "area": 120,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 3000
+  },
+  {
+    "info": "3室1厅",
+    "area": 95,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 3000
+  },
+  {
+    "info": "3室2厅",
+    "area": 117,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 3000
+  },
+  {
+    "info": "1室1厅",
+    "area": 36,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 1600
+  },
+  {
+    "info": "2室1厅",
+    "area": 78,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 3100
+  },
+  {
+    "info": "3室2厅",
+    "area": 110,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2900
+  },
+  {
+    "info": "2室1厅",
+    "area": 87,
+    "position": "岔路口",
+    "price": 3000
+  },
+  {
+    "info": "2室2厅",
+    "area": 97,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2700
+  },
+  {
+    "info": "1室1厅",
+    "area": 24,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 1400
+  },
+  {
+    "info": "1室1厅",
+    "area": 43,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 2800
+  },
+  {
+    "info": "3室1厅",
+    "area": 100,
+    "forward": "朝南",
+    "position": "上坊镇",
+    "price": 2200
+  },
+  {
+    "info": "3室1厅",
+    "area": 90,
+    "forward": "朝南北",
+    "position": "上坊镇",
+    "price": 2200
+  },
+  {
+    "info": "1室1厅",
+    "area": 40,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 1800
+  },
+  {
+    "info": "3室2厅",
+    "area": 92,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2300
+  },
+  {
+    "info": "3室1厅",
+    "area": 108,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 3500
+  },
+  {
+    "info": "1室1厅",
+    "area": 55,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 1800
+  },
+  {
+    "info": "3室2厅",
+    "area": 106,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 3200
+  },
+  {
+    "info": "2室1厅",
+    "area": 89,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 2600
+  },
+  {
+    "info": "3室2厅",
+    "area": 108,
+    "forward": "朝南北",
+    "position": "东山镇",
+    "price": 3300
+  },
+  {
+    "info": "3室2厅",
+    "area": 120,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 3450
+  },
+  {
+    "info": "3室2厅",
+    "area": 101,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 3300
+  },
+  {
+    "info": "3室2厅",
+    "area": 130,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 4000
+  },
+  {
+    "info": "3室2厅",
+    "area": 88,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 700
+  },
+  {
+    "info": "3室2厅",
+    "area": 89,
+    "forward": "朝南北",
+    "position": "东山镇",
+    "price": 2600
+  },
+  {
+    "info": "2室2厅",
+    "area": 82,
+    "forward": "朝南",
+    "position": "远洋绿地雲峰公馆对比",
+    "price": 2600
+  },
+  {
+    "info": "4室1厅",
+    "area": 130,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 4000
+  },
+  {
+    "info": "2室2厅",
+    "area": 80,
+    "forward": "朝南",
+    "position": "麒麟门",
+    "price": 2000
+  },
+  {
+    "info": "3室2厅",
+    "area": 120,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 3500
+  },
+  {
+    "info": "3室1厅",
+    "area": 98,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 2500
+  },
+  {
+    "info": "2室2厅",
+    "area": 89,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 3000
+  },
+  {
+    "info": "2室2厅",
+    "area": 64,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 3000
+  },
+  {
+    "info": "3室2厅",
+    "area": 86,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 5500
+  },
+  {
+    "info": "2室1厅",
+    "area": 88,
+    "forward": "朝南北",
+    "position": "秣陵",
+    "price": 3800
+  },
+  {
+    "info": "2室2厅",
+    "area": 88,
+    "forward": "朝南北",
+    "position": "开发区",
+    "price": 3800
+  },
+  {
+    "info": "2室2厅",
+    "area": 80,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 3300
+  },
+  {
+    "info": "1室0厅",
+    "area": 54,
+    "forward": "朝北",
+    "position": "百家湖",
+    "price": 2600
+  },
+  {
+    "info": "3室1厅",
+    "area": 130,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 4300
+  },
+  {
+    "info": "1室2厅",
+    "area": 67,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 3500
+  },
+  {
+    "info": "3室2厅",
+    "area": 130,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 4800
+  },
+  {
+    "info": "2室1厅",
+    "area": 89,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 2800
+  },
+  {
+    "info": "1室1厅",
+    "area": 56,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 1700
+  },
+  {
+    "info": "3室1厅",
+    "area": 91,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 2800
+  },
+  {
+    "info": "3室2厅",
+    "area": 108,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 3600
+  },
+  {
+    "info": "2室2厅",
+    "area": 90,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 2800
+  },
+  {
+    "info": "3室1厅",
+    "area": 96,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 2800
+  },
+  {
+    "info": "3室2厅",
+    "area": 90,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 3200
+  },
+  {
+    "info": "2室2厅",
+    "area": 88,
+    "forward": "朝南北",
+    "position": "开发区",
+    "price": 2800
+  },
+  {
+    "info": "2室2厅",
+    "area": 41,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 1400
+  },
+  {
+    "info": "3室2厅",
+    "area": 115,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 3700
+  },
+  {
+    "info": "3室2厅",
+    "area": 115,
+    "forward": "朝北",
+    "position": "开发区",
+    "price": 5000
+  },
+  {
+    "info": "4户合租",
+    "area": 132,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 750
+  },
+  {
+    "info": "4户合租",
+    "area": 118,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 1200
+  },
+  {
+    "info": "3室2厅",
+    "area": 100,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 3600
+  },
+  {
+    "info": "2室1厅",
+    "area": 68,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 1850
+  },
+  {
+    "info": "3室2厅",
+    "area": 143,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 4000
+  },
+  {
+    "info": "1室1厅",
+    "area": 50,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 1850
+  },
+  {
+    "info": "2室2厅",
+    "area": 82,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 2650
+  },
+  {
+    "info": "3室1厅",
+    "area": 87,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 3000
+  },
+  {
+    "info": "3室1厅",
+    "area": 88,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 2400
+  },
+  {
+    "info": "3室2厅",
+    "area": 115,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 5800
+  },
+  {
+    "info": "1室1厅",
+    "area": 40,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 1650
+  },
+  {
+    "info": "2室2厅",
+    "area": 89,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 5000
+  },
+  {
+    "info": "2室2厅",
+    "area": 92,
+    "forward": "朝南北",
+    "position": "科学园",
+    "price": 2800
+  },
+  {
+    "info": "2室1厅",
+    "area": 100,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 2800
+  },
+  {
+    "info": "5室2厅",
+    "area": 258,
+    "forward": "朝南北",
+    "position": "开发区",
+    "price": 6500
+  },
+  {
+    "info": "4室3厅",
+    "area": 217,
+    "forward": "朝南北",
+    "position": "开发区",
+    "price": 5500
+  },
+  {
+    "info": "2室1厅",
+    "area": 96,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 3300
+  },
+  {
+    "info": "2室1厅",
+    "area": 73,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2600
+  },
+  {
+    "info": "3室2厅",
+    "area": 103,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 3000
+  },
+  {
+    "info": "2室1厅",
+    "area": 47,
+    "forward": "朝东南",
+    "position": "科学园",
+    "price": 3100
+  },
+  {
+    "info": "3室2厅",
+    "area": 117,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 4900
+  },
+  {
+    "info": "2室2厅",
+    "area": 75,
+    "forward": "朝南北",
+    "position": "开发区",
+    "price": 2400
+  },
+  {
+    "info": "2室1厅",
+    "area": 92,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 3000
+  },
+  {
+    "info": "2室1厅",
+    "area": 78,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2200
+  },
+  {
+    "info": "2室1厅",
+    "area": 80,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 3200
+  },
+  {
+    "info": "1室1厅",
+    "area": 45,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 2200
+  },
+  {
+    "info": "1室1厅",
+    "area": 50,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 2100
+  },
+  {
+    "info": "2室2厅",
+    "area": 86,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 3000
+  },
+  {
+    "info": "3室2厅",
+    "area": 114,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 5000
+  },
+  {
+    "info": "1室1厅",
+    "area": 55,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 1800
+  },
+  {
+    "info": "2室2厅",
+    "area": 135,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 3200
+  },
+  {
+    "info": "4室2厅",
+    "area": 130,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 4500
+  },
+  {
+    "info": "3室2厅",
+    "area": 83,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 5500
+  },
+  {
+    "info": "2室1厅",
+    "area": 96,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 3500
+  },
+  {
+    "info": "2室1厅",
+    "area": 80,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 3300
+  },
+  {
+    "info": "3室2厅",
+    "area": 124,
+    "forward": "朝南北",
+    "position": "开发区",
+    "price": 4500
+  },
+  {
+    "info": "1室1厅",
+    "area": 59,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 2800
+  },
+  {
+    "info": "2室1厅",
+    "area": 75,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 3050
+  },
+  {
+    "info": "1室1厅",
+    "area": 60,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 1900
+  },
+  {
+    "info": "2室1厅",
+    "area": 60,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2800
+  },
+  {
+    "info": "1室1厅",
+    "area": 55,
+    "forward": "朝东",
+    "position": "岔路口",
+    "price": 2500
+  },
+  {
+    "info": "2室1厅",
+    "area": 35,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 2400
+  },
+  {
+    "info": "2室2厅",
+    "area": 98,
+    "forward": "朝南北",
+    "position": "科学园",
+    "price": 2800
+  },
+  {
+    "info": "3室2厅",
+    "area": 117,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 5000
+  },
+  {
+    "info": "2室2厅",
+    "area": 45,
+    "forward": "朝东南",
+    "position": "麒麟门",
+    "price": 1500
+  },
+  {
+    "info": "1室1厅",
+    "area": 40,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 1700
+  },
+  {
+    "info": "5户合租",
+    "area": 28,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 950
+  },
+  {
+    "info": "1室1厅",
+    "area": 36,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1600
+  },
+  {
+    "info": "1室1厅",
+    "area": 50,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2200
+  },
+  {
+    "info": "6户合租",
+    "area": 20,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 900
+  },
+  {
+    "info": "4户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 1200
+  },
+  {
+    "info": "4户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1200
+  },
+  {
+    "info": "1室1厅",
+    "area": 30,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 1300
+  },
+  {
+    "info": "5户合租",
+    "area": 20,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 850
+  },
+  {
+    "info": "4户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1500
+  },
+  {
+    "info": "5户合租",
+    "area": 40,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1600
+  },
+  {
+    "info": "3户合租",
+    "area": 20,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1000
+  },
+  {
+    "info": "4户合租",
+    "area": 40,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1800
+  },
+  {
+    "info": "1室1厅",
+    "area": 55,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2300
+  },
+  {
+    "info": "2室2厅",
+    "area": 70,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 2400
+  },
+  {
+    "info": "4户合租",
+    "area": 98,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 1000
+  },
+  {
+    "info": "3室2厅",
+    "area": 117,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 4600
+  },
+  {
+    "info": "4室2厅",
+    "area": 270,
+    "forward": "朝南",
+    "position": "将军大道",
+    "price": 7500
+  },
+  {
+    "info": "3室1厅",
+    "area": 101,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 3000
+  },
+  {
+    "info": "1室1厅",
+    "area": 45,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 1400
+  },
+  {
+    "info": "3室2厅",
+    "area": 100,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 3600
+  },
+  {
+    "info": "2室1厅",
+    "area": 73,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2500
+  },
+
+  {
+    "info": "2室2厅",
+    "area": 100,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 3300
+  },
+  {
+    "info": "2室1厅",
+    "area": 86,
+    "forward": "朝南",
+    "position": "麒麟门",
+    "price": 1800
+  },
+  {
+    "info": "2室2厅",
+    "area": 50,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 2600
+  },
+  {
+    "info": "3室2厅",
+    "area": 94,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 3600
+  },
+  {
+    "info": "3室2厅",
+    "area": 140,
+    "position": "将军大道",
+    "price": 5500
+  },
+  {
+    "info": "3室2厅",
+    "area": 122,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 3600
+  },
+  {
+    "info": "1室1厅",
+    "area": 43,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 1850
+  },
+  {
+    "info": "2室1厅",
+    "area": 94,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 2300
+  },
+  {
+    "info": "3室1厅",
+    "area": 113,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 4600
+  },
+  {
+    "info": "1室1厅",
+    "area": 50,
+    "forward": "朝西北",
+    "position": "岔路口",
+    "price": 2100
+  },
+  {
+    "info": "1室1厅",
+    "area": 42,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 2400
+  },
+  {
+    "info": "1室1厅",
+    "area": 42,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 2200
+  },
+  {
+    "info": "2室2厅",
+    "area": 90,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 3300
+  },
+  {
+    "info": "2室2厅",
+    "area": 100,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2000
+  },
+  {
+    "info": "1室1厅",
+    "area": 38,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 1500
+  },
+  {
+    "info": "2室1厅",
+    "area": 66,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 2500
+  },
+  {
+    "info": "3室2厅",
+    "area": 126,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 3600
+  },
+  {
+    "info": "3室2厅",
+    "area": 103,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 3400
+  },
+  {
+    "info": "2室1厅",
+    "area": 80,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2800
+  },
+  {
+    "info": "3室2厅",
+    "area": 90,
+    "position": "东山镇",
+    "price": 3500
+  },
+  {
+    "info": "3室2厅",
+    "area": 121,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 3500
+  },
+  {
+    "info": "4户合租",
+    "area": 20,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 950
+  },
+  {
+    "info": "3室2厅",
+    "area": 118,
+    "position": "开发区",
+    "price": 5700
+  },
+  {
+    "info": "3室2厅",
+    "area": 219,
+    "position": "东山镇",
+    "price": 22000
+  },
+  {
+    "info": "3室2厅",
+    "area": 137,
+    "position": "万科翡翠公园对比",
+    "price": 6100
+  },
+  {
+    "info": "3室2厅",
+    "area": 86,
+    "position": "百家湖",
+    "price": 5600
+  },
+  {
+    "info": "3室1厅",
+    "area": 98,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 3400
+  },
+  {
+    "info": "1室1厅",
+    "area": 40,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1500
+  },
+  {
+    "info": "1室1厅",
+    "area": 40,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1250
+  },
+  {
+    "info": "2室1厅",
+    "area": 80,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 2600
+  },
+
+  {
+    "info": "3室2厅",
+    "area": 110,
+    "forward": "朝南北",
+    "position": "东山镇",
+    "price": 3200
+  },
+  {
+    "info": "1室1厅",
+    "area": 50,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 3500
+  },
+  {
+    "info": "1室1厅",
+    "area": 57,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 2700
+  },
+  {
+    "info": "1室1厅",
+    "area": 56,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 2400
+  },
+  {
+    "info": "2室1厅",
+    "area": 68,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2500
+  },
+  {
+    "info": "3室2厅",
+    "area": 95,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 3850
+  },
+  {
+    "info": "1室1厅",
+    "area": 50,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 1900
+  },
+  {
+    "info": "2室2厅",
+    "area": 83,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 3500
+  },
+  {
+    "info": "3室2厅",
+    "area": 102,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 3550
+  },
+  {
+    "info": "1室1厅",
+    "area": 40,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1250
+  },
+  {
+    "info": "4户合租",
+    "area": 20,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 950
+  },
+  {
+    "info": "3室2厅",
+    "area": 89,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 3500
+  },
+  {
+    "info": "3室2厅",
+    "area": 116,
+    "forward": "朝南北",
+    "position": "开发区",
+    "price": 4800
+  },
+  {
+    "info": "1室0厅",
+    "area": 57,
+    "position": "百家湖",
+    "price": 2300
+  },
+  {
+    "info": "3室1厅",
+    "area": 105,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 3000
+  },
+  {
+    "info": "1室1厅",
+    "area": 54,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 2400
+  },
+  {
+    "info": "2室2厅",
+    "area": 66,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 3330
+  },
+  {
+    "info": "3室2厅",
+    "area": 97,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2900
+  },
+  {
+    "info": "2室2厅",
+    "area": 100,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 3100
+  },
+  {
+    "info": "2室2厅",
+    "area": 50,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 2600
+  },
+  {
+    "info": "1室1厅",
+    "area": 45,
+    "forward": "朝北",
+    "position": "岔路口",
+    "price": 2200
+  },
+  {
+    "info": "2室1厅",
+    "area": 66,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 2800
+  },
+  {
+    "info": "2室2厅",
+    "area": 72,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 3500
+  },
+  {
+    "info": "3室1厅",
+    "area": 79,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 500
+  },
+  {
+    "info": "3室2厅",
+    "area": 139,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 4500
+  },
+  {
+    "info": "3室2厅",
+    "area": 138,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 4000
+  },
+  {
+    "info": "2室1厅",
+    "area": 64,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 2600
+  },
+  {
+    "info": "3户合租",
+    "area": 25,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1100
+  },
+  {
+    "info": "1室1厅",
+    "area": 30,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1300
+  },
+  {
+    "info": "4户合租",
+    "area": 40,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1500
+  },
+
+  {
+    "info": "3户合租",
+    "area": 20,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1000
+  },
+  {
+    "info": "4户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1000
+  },
+  {
+    "info": "4户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1300
+  },
+  {
+    "info": "4户合租",
+    "area": 38,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 1300
+  },
+  {
+    "info": "4户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 1350
+  },
+  {
+    "info": "4户合租",
+    "area": 25,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1250
+  },
+  {
+    "info": "3户合租",
+    "area": 40,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1900
+  },
+  {
+    "info": "4户合租",
+    "area": 25,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 700
+  },
+  {
+    "info": "4户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1000
+  },
+  {
+    "info": "4户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1200
+  },
+  {
+    "info": "4户合租",
+    "area": 40,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1600
+  },
+  {
+    "info": "4户合租",
+    "area": 25,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1250
+  },
+  {
+    "info": "4户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 1500
+  },
+  {
+    "info": "4户合租",
+    "area": 38,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 1300
+  },
+  {
+    "info": "4户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 1350
+  },
+  {
+    "info": "4户合租",
+    "area": 40,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1800
+  },
+  {
+    "info": "1室1厅",
+    "area": 40,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1800
+  },
+  {
+    "info": "3户合租",
+    "area": 40,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1700
+  },
+  {
+    "info": "3户合租",
+    "area": 40,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1900
+  },
+  {
+    "info": "1室1厅",
+    "area": 40,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2000
+  },
+  {
+    "info": "4户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1500
+  },
+  {
+    "info": "4户合租",
+    "area": 40,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1400
+  },
+  {
+    "info": "4户合租",
+    "area": 40,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1700
+  },
+  {
+    "info": "4户合租",
+    "area": 40,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1800
+  },
+  {
+    "info": "4户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1200
+  },
+  {
+    "info": "5户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1500
+  },
+  {
+    "info": "3户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1200
+  },
+  {
+    "info": "4户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 1200
+  },
+  {
+    "info": "4户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1400
+  },
+  {
+    "info": "4户合租",
+    "area": 40,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1200
+  },
+
+  {
+    "info": "1室1厅",
+    "area": 30,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 1100
+  },
+  {
+    "info": "4户合租",
+    "area": 40,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1900
+  },
+  {
+    "info": "5户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1200
+  },
+  {
+    "info": "1室1厅",
+    "area": 40,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1700
+  },
+  {
+    "info": "1室1厅",
+    "area": 40,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1900
+  },
+  {
+    "info": "1室1厅",
+    "area": 40,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1900
+  },
+  {
+    "info": "3户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1800
+  },
+  {
+    "info": "1室0厅",
+    "area": 30,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1300
+  },
+  {
+    "info": "1室1厅",
+    "area": 20,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 850
+  },
+  {
+    "info": "1室1厅",
+    "area": 30,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1300
+  },
+  {
+    "info": "1室1厅",
+    "area": 40,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1700
+  },
+  {
+    "info": "5户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1500
+  },
+  {
+    "info": "4户合租",
+    "area": 40,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1800
+  },
+  {
+    "info": "1室1厅",
+    "area": 40,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1600
+  },
+  {
+    "info": "1室1厅",
+    "area": 30,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1400
+  },
+  {
+    "info": "1室1厅",
+    "area": 38,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1400
+  },
+  {
+    "info": "1室1厅",
+    "area": 40,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1500
+  },
+  {
+    "info": "6户合租",
+    "area": 20,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 600
+  },
+  {
+    "info": "5户合租",
+    "area": 20,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 950
+  },
+  {
+    "info": "4户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 1000
+  },
+  {
+    "info": "1室1厅",
+    "area": 30,
+    "forward": "朝南北",
+    "position": "开发区",
+    "price": 1200
+  },
+  {
+    "info": "5户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1300
+  },
+  {
+    "info": "4户合租",
+    "area": 40,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 1300
+  },
+  {
+    "info": "1室1厅",
+    "area": 40,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1900
+  },
+  {
+    "info": "4户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 1350
+  },
+  {
+    "info": "2室0厅",
+    "area": 60,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 3000
+  },
+  {
+    "info": "1室1厅",
+    "area": 30,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1600
+  },
+  {
+    "info": "1室1厅",
+    "area": 40,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1200
+  },
+  {
+    "info": "1室1厅",
+    "area": 40,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1700
+  },
+  {
+    "info": "1室0厅",
+    "area": 40,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 1800
+  },
+
+  {
+    "info": "4户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 1250
+  },
+  {
+    "info": "4户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1200
+  },
+  {
+    "info": "1室1厅",
+    "area": 35,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1300
+  },
+  {
+    "info": "1室1厅",
+    "area": 40,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1600
+  },
+  {
+    "info": "2室1厅",
+    "area": 50,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 3300
+  },
+  {
+    "info": "1室1厅",
+    "area": 30,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1200
+  },
+  {
+    "info": "1室0厅",
+    "area": 30,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1700
+  },
+  {
+    "info": "1室0厅",
+    "area": 30,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1100
+  },
+  {
+    "info": "1室1厅",
+    "area": 28,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1300
+  },
+  {
+    "info": "1室1厅",
+    "area": 25,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1000
+  },
+  {
+    "info": "1室1厅",
+    "area": 35,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1600
+  },
+  {
+    "info": "1室1厅",
+    "area": 30,
+    "forward": "朝南",
+    "position": "将军大道",
+    "price": 1600
+  },
+  {
+    "info": "4户合租",
+    "area": 40,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1500
+  },
+  {
+    "info": "4户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 1350
+  },
+  {
+    "info": "1室1厅",
+    "area": 35,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1600
+  },
+  {
+    "info": "2户合租",
+    "area": 40,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1600
+  },
+  {
+    "info": "4户合租",
+    "area": 40,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1600
+  },
+  {
+    "info": "2室1厅",
+    "area": 50,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 3300
+  },
+  {
+    "info": "4户合租",
+    "area": 40,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1500
+  },
+  {
+    "info": "4户合租",
+    "area": 40,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 1550
+  },
+  {
+    "info": "1室1厅",
+    "area": 30,
+    "forward": "朝南北",
+    "position": "开发区",
+    "price": 1200
+  },
+  {
+    "info": "4户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1200
+  },
+  {
+    "info": "1室1厅",
+    "area": 28,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1300
+  },
+  {
+    "info": "4户合租",
+    "area": 25,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1000
+  },
+  {
+    "info": "4户合租",
+    "area": 40,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 1300
+  },
+  {
+    "info": "1室1厅",
+    "area": 40,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1900
+  },
+  {
+    "info": "3户合租",
+    "area": 20,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1000
+  },
+  {
+    "info": "4户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 1250
+  },
+  {
+    "info": "5户合租",
+    "area": 40,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1600
+  },
+  {
+    "info": "5户合租",
+    "area": 20,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 800
+  },
+
+  {
+    "info": "3室2厅",
+    "area": 84,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 3000
+  },
+  {
+    "info": "2室2厅",
+    "area": 52,
+    "forward": "朝西",
+    "position": "岔路口",
+    "price": 3500
+  },
+  {
+    "info": "3室1厅",
+    "area": 90,
+    "forward": "朝南北",
+    "position": "上坊镇",
+    "price": 2200
+  },
+  {
+    "info": "3室1厅",
+    "area": 100,
+    "forward": "朝南",
+    "position": "上坊镇",
+    "price": 2200
+  },
+  {
+    "info": "3室2厅",
+    "area": 120,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 3500
+  },
+  {
+    "info": "2室2厅",
+    "area": 80,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 2500
+  },
+  {
+    "info": "1室1厅",
+    "area": 46,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 1400
+  },
+  {
+    "info": "4室2厅",
+    "area": 128,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 4300
+  },
+  {
+    "info": "2室2厅",
+    "area": 69,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2600
+  },
+  {
+    "info": "2室2厅",
+    "area": 72,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 2600
+  },
+  {
+    "info": "1室1厅",
+    "area": 55,
+    "forward": "朝东",
+    "position": "百家湖",
+    "price": 2480
+  },
+  {
+    "info": "2室1厅",
+    "area": 72,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 3100
+  },
+  {
+    "info": "3室2厅",
+    "area": 119,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 4200
+  },
+  {
+    "info": "3室2厅",
+    "area": 138,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 4200
+  },
+  {
+    "info": "3户合租",
+    "area": 88,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 500
+  },
+  {
+    "info": "2室2厅",
+    "area": 80,
+    "forward": "朝南北",
+    "position": "东山镇",
+    "price": 2000
+  },
+  {
+    "info": "1室1厅",
+    "area": 44,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 2000
+  },
+  {
+    "info": "1室1厅",
+    "area": 58,
+    "forward": "朝东南",
+    "position": "江宁大学城",
+    "price": 2500
+  },
+  {
+    "info": "2室2厅",
+    "area": 94,
+    "forward": "朝南",
+    "position": "将军大道",
+    "price": 3600
+  },
+  {
+    "info": "1室1厅",
+    "area": 54,
+    "forward": "朝东",
+    "position": "百家湖",
+    "price": 2500
+  },
+  {
+    "info": "2室1厅",
+    "area": 45,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 2450
+  },
+  {
+    "info": "4室2厅",
+    "area": 138,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 3500
+  },
+  {
+    "info": "1室0厅",
+    "area": 5000,
+    "forward": "朝南北",
+    "position": "秣陵",
+    "price": 110000
+  },
+  {
+    "info": "2室2厅",
+    "area": 88,
+    "forward": "朝南北",
+    "position": "开发区",
+    "price": 3800
+  },
+  {
+    "info": "1室0厅",
+    "area": 90,
+    "position": "麒麟门",
+    "price": 900
+  },
+  {
+    "info": "2室1厅",
+    "area": 68,
+    "position": "岔路口",
+    "price": 2500
+  },
+  {
+    "info": "2室1厅",
+    "area": 72,
+    "forward": "朝南北",
+    "position": "禄口",
+    "price": 1200
+  },
+  {
+    "info": "3室2厅",
+    "area": 83,
+    "forward": "朝南北",
+    "position": "禄口",
+    "price": 2000
+  },
+  {
+    "info": "3室2厅",
+    "area": 116,
+    "forward": "朝南北",
+    "position": "开发区",
+    "price": 5500
+  },
+  {
+    "info": "3室2厅",
+    "area": 114,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 6000
+  },
+
+  {
+    "info": "4室2厅",
+    "area": 140,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 6000
+  },
+  {
+    "info": "3室2厅",
+    "area": 85,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 5800
+  },
+  {
+    "info": "3室2厅",
+    "area": 133,
+    "forward": "朝南北",
+    "position": "开发区",
+    "price": 5500
+  },
+  {
+    "info": "3室2厅",
+    "area": 91,
+    "forward": "朝南北",
+    "position": "开发区",
+    "price": 4200
+  },
+  {
+    "info": "3室2厅",
+    "area": 130,
+    "forward": "朝南北",
+    "position": "开发区",
+    "price": 5600
+  },
+  {
+    "info": "3室2厅",
+    "area": 136,
+    "forward": "朝南北",
+    "position": "开发区",
+    "price": 5800
+  },
+  {
+    "info": "2室2厅",
+    "area": 87,
+    "forward": "朝南北",
+    "position": "禄口",
+    "price": 3500
+  },
+  {
+    "info": "3室2厅",
+    "area": 118,
+    "forward": "朝南北",
+    "position": "开发区",
+    "price": 5800
+  },
+  {
+    "info": "3室2厅",
+    "area": 90,
+    "forward": "朝南北",
+    "position": "开发区",
+    "price": 4300
+  },
+  {
+    "info": "3室2厅",
+    "area": 118,
+    "forward": "朝南北",
+    "position": "开发区",
+    "price": 5500
+  },
+  {
+    "info": "3室2厅",
+    "area": 219,
+    "forward": "朝南北",
+    "position": "东山镇",
+    "price": 22000
+  },
+  {
+    "info": "1室1厅",
+    "area": 50,
+    "forward": "朝西北",
+    "position": "开发区",
+    "price": 3000
+  },
+  {
+    "info": "3室2厅",
+    "area": 241,
+    "forward": "朝南北",
+    "position": "东山镇",
+    "price": 25000
+  },
+  {
+    "info": "3室2厅",
+    "area": 130,
+    "forward": "朝南北",
+    "position": "开发区",
+    "price": 5800
+  },
+  {
+    "info": "3室2厅",
+    "area": 97,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 5200
+  },
+  {
+    "info": "2室2厅",
+    "area": 113,
+    "forward": "朝南北",
+    "position": "开发区",
+    "price": 5500
+  },
+  {
+    "info": "4室2厅",
+    "area": 168,
+    "forward": "朝南北",
+    "position": "开发区",
+    "price": 8000
+  },
+  {
+    "info": "2室2厅",
+    "area": 79,
+    "forward": "朝南北",
+    "position": "开发区",
+    "price": 4000
+  },
+  {
+    "info": "4户合租",
+    "area": 40,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 1550
+  },
+  {
+    "info": "4户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 1500
+  },
+  {
+    "info": "4户合租",
+    "area": 40,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1500
+  },
+  {
+    "info": "5户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1500
+  },
+  {
+    "info": "4户合租",
+    "area": 40,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1500
+  },
+  {
+    "info": "1室0厅",
+    "area": 30,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1300
+  },
+  {
+    "info": "4户合租",
+    "area": 40,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 1550
+  },
+  {
+    "info": "1室1厅",
+    "area": 40,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1800
+  },
+  {
+    "info": "4户合租",
+    "area": 40,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1600
+  },
+  {
+    "info": "4户合租",
+    "area": 40,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1800
+  },
+  {
+    "info": "4户合租",
+    "area": 40,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1500
+  },
+  {
+    "info": "5户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1200
+  },
+
+  {
+    "info": "3室2厅",
+    "area": 90,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 3700
+  },
+  {
+    "info": "4户合租",
+    "area": 90,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 500
+  },
+  {
+    "info": "1室1厅",
+    "area": 58,
+    "forward": "朝东南",
+    "position": "江宁大学城",
+    "price": 2500
+  },
+  {
+    "info": "1室1厅",
+    "area": 57,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 2400
+  },
+  {
+    "info": "3室2厅",
+    "area": 100,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 3600
+  },
+  {
+    "info": "3室2厅",
+    "area": 139,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 4100
+  },
+  {
+    "info": "1室1厅",
+    "area": 59,
+    "forward": "朝东",
+    "position": "百家湖",
+    "price": 2300
+  },
+  {
+    "info": "3室2厅",
+    "area": 134,
+    "forward": "朝南北",
+    "position": "开发区",
+    "price": 4300
+  },
+  {
+    "info": "2室2厅",
+    "area": 90,
+    "forward": "朝南北",
+    "position": "东山镇",
+    "price": 2900
+  },
+  {
+    "info": "3室2厅",
+    "area": 103,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 3600
+  },
+  {
+    "info": "1室1厅",
+    "area": 54,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 2150
+  },
+  {
+    "info": "1室1厅",
+    "area": 45,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 2400
+  },
+  {
+    "info": "2室2厅",
+    "area": 99,
+    "forward": "朝南北",
+    "position": "东山镇",
+    "price": 3100
+  },
+  {
+    "info": "2室2厅",
+    "area": 68,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2700
+  },
+  {
+    "info": "3室2厅",
+    "area": 114,
+    "forward": "朝南北",
+    "position": "东山镇",
+    "price": 3700
+  },
+  {
+    "info": "3室2厅",
+    "area": 93,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 2500
+  },
+  {
+    "info": "3室2厅",
+    "area": 117,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 3000
+  },
+  {
+    "info": "3室2厅",
+    "area": 130,
+    "position": "东山镇",
+    "price": 3000
+  },
+  {
+    "info": "3室2厅",
+    "area": 113,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 5500
+  },
+  {
+    "info": "1室1厅",
+    "area": 57,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 2200
+  },
+  {
+    "info": "3室2厅",
+    "area": 119,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 2000
+  },
+  {
+    "info": "3室2厅",
+    "area": 98,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 2200
+  },
+  {
+    "info": "3室2厅",
+    "area": 92,
+    "forward": "朝西北",
+    "position": "麒麟门",
+    "price": 1800
+  },
+  {
+    "info": "3室2厅",
+    "area": 87,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 1900
+  },
+  {
+    "info": "2室2厅",
+    "area": 80,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 1800
+  },
+  {
+    "info": "3室2厅",
+    "area": 134,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 3300
+  },
+  {
+    "info": "3室2厅",
+    "area": 120,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 2500
+  },
+  {
+    "info": "3室2厅",
+    "area": 99,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 1900
+  },
+  {
+    "info": "3室2厅",
+    "area": 95,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 2200
+  },
+  {
+    "info": "2室2厅",
+    "area": 80,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 1600
+  },
+
+  {
+    "info": "2室2厅",
+    "area": 80,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 2000
+  },
+  {
+    "info": "3室2厅",
+    "area": 98,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 2800
+  },
+  {
+    "info": "2室2厅",
+    "area": 80,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 2000
+  },
+  {
+    "info": "3室2厅",
+    "area": 96,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 2300
+  },
+  {
+    "info": "3室2厅",
+    "area": 117,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 2400
+  },
+  {
+    "info": "3室2厅",
+    "area": 87,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 1800
+  },
+  {
+    "info": "3室2厅",
+    "area": 88,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 1600
+  },
+  {
+    "info": "3室2厅",
+    "area": 122,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 2400
+  },
+  {
+    "info": "3室2厅",
+    "area": 90,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 2500
+  },
+  {
+    "info": "3室2厅",
+    "area": 98,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 1900
+  },
+  {
+    "info": "2室2厅",
+    "area": 80,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 2000
+  },
+  {
+    "info": "3室2厅",
+    "area": 120,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 2500
+  },
+  {
+    "info": "4室2厅",
+    "area": 95,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 2000
+  },
+  {
+    "info": "3室2厅",
+    "area": 103,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 2000
+  },
+  {
+    "info": "3室2厅",
+    "area": 95,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 2200
+  },
+  {
+    "info": "2室2厅",
+    "area": 80,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 2000
+  },
+  {
+    "info": "3室2厅",
+    "area": 90,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 2400
+  },
+  {
+    "info": "3室2厅",
+    "area": 86,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 2000
+  },
+  {
+    "info": "2室2厅",
+    "area": 80,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 1700
+  },
+  {
+    "info": "3室2厅",
+    "area": 99,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 2200
+  },
+  {
+    "info": "3室2厅",
+    "area": 89,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 2000
+  },
+  {
+    "info": "3室2厅",
+    "area": 97,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 1700
+  },
+  {
+    "info": "3室2厅",
+    "area": 89,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 1900
+  },
+  {
+    "info": "1户合租",
+    "area": 15,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 1200
+  },
+  {
+    "info": "1户合租",
+    "area": 25,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 1050
+  },
+  {
+    "info": "1户合租",
+    "area": 25,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 1050
+  },
+  {
+    "info": "4户合租",
+    "area": 116,
+    "forward": "朝北",
+    "position": "东山镇",
+    "price": 1110
+  },
+  {
+    "info": "1室1厅",
+    "area": 40,
+    "forward": "朝南",
+    "position": "将军大道",
+    "price": 900
+  },
+  {
+    "info": "3室2厅",
+    "area": 113,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 3000
+  },
+  {
+    "info": "3户合租",
+    "area": 125,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 1100
+  },
+
+  {
+    "info": "1户合租",
+    "area": 15,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1000
+  },
+  {
+    "info": "3户合租",
+    "area": 120,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 1450
+  },
+  {
+    "info": "6户合租",
+    "area": 226,
+    "forward": "朝北",
+    "position": "科学园",
+    "price": 990
+  },
+  {
+    "info": "1户合租",
+    "area": 18,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 720
+  },
+  {
+    "info": "3室2厅",
+    "area": 116,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 3100
+  },
+  {
+    "info": "1室1厅",
+    "area": 42,
+    "forward": "朝南",
+    "position": "将军大道",
+    "price": 2300
+  },
+  {
+    "info": "1室1厅",
+    "area": 50,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 1900
+  },
+  {
+    "info": "3室2厅",
+    "area": 116,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 3000
+  },
+  {
+    "info": "3户合租",
+    "area": 118,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 1100
+  },
+  {
+    "info": "3户合租",
+    "area": 140,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 1000
+  },
+  {
+    "info": "1户合租",
+    "area": 15,
+    "forward": "朝南",
+    "position": "将军大道",
+    "price": 800
+  },
+  {
+    "info": "1户合租",
+    "area": 15,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1000
+  },
+  {
+    "info": "4户合租",
+    "area": 120,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 1080
+  },
+  {
+    "info": "2户合租",
+    "area": 13,
+    "forward": "朝南北",
+    "position": "上坊镇",
+    "price": 700
+  },
+  {
+    "info": "4户合租",
+    "area": 120,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1110
+  },
+  {
+    "info": "3室2厅",
+    "area": 130,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 7500
+  },
+  {
+    "info": "1室1厅",
+    "area": 42,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 1600
+  },
+  {
+    "info": "3室2厅",
+    "area": 212,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 20000
+  },
+  {
+    "info": "3户合租",
+    "area": 89,
+    "forward": "朝北",
+    "position": "岔路口",
+    "price": 1000
+  },
+  {
+    "info": "3室1厅",
+    "area": 100,
+    "forward": "朝南",
+    "position": "禄口",
+    "price": 1250
+  },
+  {
+    "info": "1室0厅",
+    "area": 41,
+    "forward": "朝西",
+    "position": "将军大道",
+    "price": 2400
+  },
+  {
+    "info": "3户合租",
+    "area": 120,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1160
+  },
+  {
+    "info": "1室0厅",
+    "area": 48,
+    "forward": "朝南北",
+    "position": "将军大道",
+    "price": 2100
+  },
+  {
+    "info": "3室2厅",
+    "area": 111,
+    "forward": "朝南北",
+    "position": "开发区",
+    "price": 3100
+  },
+  {
+    "info": "3户合租",
+    "area": 108,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 900
+  },
+  {
+    "info": "3室2厅",
+    "area": 220,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 18000
+  },
+  {
+    "info": "7户合租",
+    "area": 140,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 650
+  },
+  {
+    "info": "1户合租",
+    "area": 16,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 780
+  },
+  {
+    "info": "2室2厅",
+    "area": 77,
+    "forward": "朝南北",
+    "position": "将军大道",
+    "price": 3700
+  },
+  {
+    "info": "1室1厅",
+    "area": 52,
+    "forward": "朝北",
+    "position": "将军大道",
+    "price": 2000
+  },
+
+  {
+    "info": "3室1厅",
+    "area": 95,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1100
+  },
+  {
+    "info": "1户合租",
+    "area": 11,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1000
+  },
+  {
+    "info": "1户合租",
+    "area": 25,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 950
+  },
+  {
+    "info": "3户合租",
+    "area": 118,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1100
+  },
+  {
+    "info": "3户合租",
+    "area": 100,
+    "forward": "朝东",
+    "position": "科学园",
+    "price": 1320
+  },
+  {
+    "info": "1户合租",
+    "area": 15,
+    "forward": "朝南",
+    "position": "将军大道",
+    "price": 900
+  },
+  {
+    "info": "2室1厅",
+    "area": 87,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2600
+  },
+  {
+    "info": "1户合租",
+    "area": 12,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 800
+  },
+  {
+    "info": "3室2厅",
+    "area": 101,
+    "forward": "朝东南",
+    "position": "将军大道",
+    "price": 4100
+  },
+  {
+    "info": "4户合租",
+    "area": 120,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 1310
+  },
+  {
+    "info": "1户合租",
+    "area": 16,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 1100
+  },
+  {
+    "info": "3户合租",
+    "area": 94,
+    "forward": "朝南北",
+    "position": "东山镇",
+    "price": 950
+  },
+  {
+    "info": "2室2厅",
+    "area": 87,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2400
+  },
+  {
+    "info": "4户合租",
+    "area": 120,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 1110
+  },
+  {
+    "info": "3户合租",
+    "area": 15,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 950
+  },
+  {
+    "info": "3室2厅",
+    "area": 88,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 3500
+  },
+  {
+    "info": "3室1厅",
+    "area": 89,
+    "forward": "朝南",
+    "position": "禄口",
+    "price": 2100
+  },
+  {
+    "info": "1户合租",
+    "area": 15,
+    "forward": "朝南",
+    "position": "将军大道",
+    "price": 800
+  },
+  {
+    "info": "2室2厅",
+    "area": 87,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2500
+  },
+  {
+    "info": "4户合租",
+    "area": 120,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 1010
+  },
+  {
+    "info": "4户合租",
+    "area": 120,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 800
+  },
+  {
+    "info": "3室2厅",
+    "area": 130,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 7500
+  },
+  {
+    "info": "1户合租",
+    "area": 12,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 800
+  },
+  {
+    "info": "1室1厅",
+    "area": 39,
+    "forward": "朝南北",
+    "position": "将军大道",
+    "price": 1800
+  },
+  {
+    "info": "4户合租",
+    "area": 25,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 800
+  },
+  {
+    "info": "2室2厅",
+    "area": 88,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2500
+  },
+  {
+    "info": "2室2厅",
+    "area": 89,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2300
+  },
+  {
+    "info": "3户合租",
+    "area": 108,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1000
+  },
+  {
+    "info": "3户合租",
+    "area": 120,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1160
+  },
+  {
+    "info": "4户合租",
+    "area": 120,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1060
+  },
+
+  {
+    "info": "4户合租",
+    "area": 116,
+    "forward": "朝北",
+    "position": "东山镇",
+    "price": 1110
+  },
+  {
+    "info": "1室1厅",
+    "area": 50,
+    "forward": "朝北",
+    "position": "将军大道",
+    "price": 2700
+  },
+  {
+    "info": "3户合租",
+    "area": 100,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 900
+  },
+  {
+    "info": "3室2厅",
+    "area": 113,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 3000
+  },
+  {
+    "info": "3室2厅",
+    "area": 116,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 3200
+  },
+  {
+    "info": "3室2厅",
+    "area": 119,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 3000
+  },
+  {
+    "info": "3室2厅",
+    "area": 102,
+    "forward": "朝南北",
+    "position": "将军大道",
+    "price": 4150
+  },
+  {
+    "info": "3室2厅",
+    "area": 115,
+    "forward": "朝南北",
+    "position": "东山镇",
+    "price": 5500
+  },
+  {
+    "info": "1室1厅",
+    "area": 48,
+    "forward": "朝东南",
+    "position": "将军大道",
+    "price": 2000
+  },
+  {
+    "info": "3室2厅",
+    "area": 86,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 5600
+  },
+  {
+    "info": "2室1厅",
+    "area": 62,
+    "forward": "朝东",
+    "position": "岔路口",
+    "price": 2350
+  },
+  {
+    "info": "3户合租",
+    "area": 112,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1400
+  },
+  {
+    "info": "1室1厅",
+    "area": 40,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 700
+  },
+  {
+    "info": "1户合租",
+    "area": 15,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1000
+  },
+  {
+    "info": "3室1厅",
+    "area": 88,
+    "forward": "朝南",
+    "position": "翠屏城对比",
+    "price": 1500
+  },
+  {
+    "info": "3户合租",
+    "area": 20,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 700
+  },
+  {
+    "info": "4户合租",
+    "area": 120,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 1310
+  },
+  {
+    "info": "1户合租",
+    "area": 16,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 1100
+  },
+  {
+    "info": "1户合租",
+    "area": 18,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 720
+  },
+  {
+    "info": "2室1厅",
+    "area": 87,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2600
+  },
+  {
+    "info": "3户合租",
+    "area": 128,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1300
+  },
+  {
+    "info": "2室1厅",
+    "area": 59,
+    "forward": "朝南北",
+    "position": "上坊镇",
+    "price": 1500
+  },
+  {
+    "info": "3户合租",
+    "area": 90,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 1000
+  },
+  {
+    "info": "4户合租",
+    "area": 120,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 800
+  },
+  {
+    "info": "2室2厅",
+    "area": 86,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2500
+  },
+  {
+    "info": "4户合租",
+    "area": 97,
+    "forward": "朝东",
+    "position": "东山镇",
+    "price": 990
+  },
+  {
+    "info": "2室2厅",
+    "area": 88,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2600
+  },
+  {
+    "info": "1室1厅",
+    "area": 40,
+    "forward": "朝南",
+    "position": "将军大道",
+    "price": 900
+  },
+  {
+    "info": "1户合租",
+    "area": 15,
+    "forward": "朝南",
+    "position": "将军大道",
+    "price": 800
+  },
+  {
+    "info": "3户合租",
+    "area": 18,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 800
+  },
+
+  {
+    "info": "1户合租",
+    "area": 16,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 780
+  },
+  {
+    "info": "3室2厅",
+    "area": 101,
+    "forward": "朝南北",
+    "position": "将军大道",
+    "price": 4200
+  },
+  {
+    "info": "3室1厅",
+    "area": 89,
+    "forward": "朝南",
+    "position": "禄口",
+    "price": 2100
+  },
+  {
+    "info": "1户合租",
+    "area": 11,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1000
+  },
+  {
+    "info": "1户合租",
+    "area": 20,
+    "forward": "朝南",
+    "position": "秣陵",
+    "price": 850
+  },
+  {
+    "info": "3户合租",
+    "area": 120,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 1450
+  },
+  {
+    "info": "1户合租",
+    "area": 18,
+    "forward": "朝南",
+    "position": "秣陵",
+    "price": 1000
+  },
+  {
+    "info": "3户合租",
+    "area": 98,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1000
+  },
+  {
+    "info": "1户合租",
+    "area": 15,
+    "forward": "朝南",
+    "position": "将军大道",
+    "price": 900
+  },
+  {
+    "info": "1室0厅",
+    "area": 48,
+    "forward": "朝南北",
+    "position": "将军大道",
+    "price": 2100
+  },
+  {
+    "info": "4室2厅",
+    "area": 147,
+    "forward": "朝南北",
+    "position": "将军大道",
+    "price": 4000
+  },
+  {
+    "info": "3户合租",
+    "area": 116,
+    "forward": "朝南",
+    "position": "将军大道",
+    "price": 1100
+  },
+  {
+    "info": "3户合租",
+    "area": 15,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 950
+  },
+  {
+    "info": "4室2厅",
+    "area": 140,
+    "forward": "朝南北",
+    "position": "科学园",
+    "price": 2200
+  },
+  {
+    "info": "3户合租",
+    "area": 16,
+    "forward": "朝东",
+    "position": "东山镇",
+    "price": 700
+  },
+  {
+    "info": "3户合租",
+    "area": 14,
+    "forward": "朝南",
+    "position": "将军大道",
+    "price": 800
+  },
+  {
+    "info": "3室2厅",
+    "area": 86,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 5000
+  },
+  {
+    "info": "1室0厅",
+    "area": 41,
+    "forward": "朝西",
+    "position": "将军大道",
+    "price": 2400
+  },
+  {
+    "info": "1室1厅",
+    "area": 45,
+    "forward": "朝南",
+    "position": "将军大道",
+    "price": 2300
+  },
+  {
+    "info": "2室2厅",
+    "area": 89,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2600
+  },
+  {
+    "info": "3户合租",
+    "area": 94,
+    "forward": "朝南北",
+    "position": "东山镇",
+    "price": 950
+  },
+  {
+    "info": "2室2厅",
+    "area": 89,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2300
+  },
+  {
+    "info": "5户合租",
+    "area": 139,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 1290
+  },
+  {
+    "info": "3户合租",
+    "area": 110,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 1050
+  },
+  {
+    "info": "1户合租",
+    "area": 11,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 900
+  },
+  {
+    "info": "3室2厅",
+    "area": 109,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 1800
+  },
+  {
+    "info": "1室1厅",
+    "area": 39,
+    "forward": "朝南北",
+    "position": "将军大道",
+    "price": 1800
+  },
+  {
+    "info": "3室2厅",
+    "area": 86,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 5000
+  },
+  {
+    "info": "3室1厅",
+    "area": 85,
+    "forward": "朝南北",
+    "position": "东山镇",
+    "price": 2800
+  },
+  {
+    "info": "1室1厅",
+    "area": 48,
+    "forward": "朝东南",
+    "position": "将军大道",
+    "price": 2000
+  },
+
+  {
+    "info": "4户合租",
+    "area": 120,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1060
+  },
+  {
+    "info": "1室1厅",
+    "area": 39,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 1800
+  },
+  {
+    "info": "3户合租",
+    "area": 116,
+    "forward": "朝南",
+    "position": "将军大道",
+    "price": 1100
+  },
+  {
+    "info": "3户合租",
+    "area": 14,
+    "forward": "朝南",
+    "position": "将军大道",
+    "price": 800
+  },
+  {
+    "info": "3户合租",
+    "area": 108,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 1100
+  },
+  {
+    "info": "3户合租",
+    "area": 90,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 1000
+  },
+  {
+    "info": "1户合租",
+    "area": 20,
+    "forward": "朝南",
+    "position": "将军大道",
+    "price": 1100
+  },
+  {
+    "info": "3室1厅",
+    "area": 115,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 3020
+  },
+  {
+    "info": "2室1厅",
+    "area": 80,
+    "forward": "朝南北",
+    "position": "东山镇",
+    "price": 2250
+  },
+  {
+    "info": "2户合租",
+    "area": 25,
+    "forward": "朝南北",
+    "position": "科学园",
+    "price": 950
+  },
+  {
+    "info": "3室1厅",
+    "area": 101,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 3300
+  },
+  {
+    "info": "3室2厅",
+    "area": 94,
+    "forward": "朝南北",
+    "position": "九龙湖",
+    "price": 4500
+  },
+  {
+    "info": "3室1厅",
+    "area": 91,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2700
+  },
+  {
+    "info": "3室1厅",
+    "area": 90,
+    "forward": "朝南",
+    "position": "万科翡翠公园个人房源对比",
+    "price": 4000
+  },
+  {
+    "info": "2室1厅",
+    "area": 50,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 1200
+  },
+  {
+    "info": "1室1厅",
+    "area": 8,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 500
+  },
+  {
+    "info": "2室1厅",
+    "area": 60,
+    "forward": "朝南北",
+    "position": "将军大道",
+    "price": 2000
+  },
+  {
+    "info": "3室1厅",
+    "area": 125,
+    "forward": "朝南北",
+    "position": "江宁大学城",
+    "price": 4000
+  },
+  {
+    "info": "4室2厅",
+    "area": 191,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 6600
+  },
+  {
+    "info": "4室2厅",
+    "area": 191,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 6600
+  },
+  {
+    "info": "4室2厅",
+    "area": 220,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 2800
+  },
+  {
+    "info": "2户合租",
+    "area": 25,
+    "forward": "朝南",
+    "position": "将军大道",
+    "price": 1100
+  },
+  {
+    "info": "2户合租",
+    "area": 25,
+    "forward": "朝南",
+    "position": "将军大道",
+    "price": 1300
+  },
+  {
+    "info": "2户合租",
+    "area": 20,
+    "forward": "朝南",
+    "position": "将军大道",
+    "price": 1000
+  },
+  {
+    "info": "2户合租",
+    "area": 25,
+    "forward": "朝南",
+    "position": "将军大道",
+    "price": 1300
+  },
+  {
+    "info": "4室2厅",
+    "area": 120,
+    "forward": "朝南北",
+    "position": "科学园",
+    "price": 3180
+  },
+  {
+    "info": "2室2厅",
+    "area": 83,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2500
+  },
+  {
+    "info": "2户合租",
+    "area": 28,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 1000
+  },
+  {
+    "info": "2户合租",
+    "area": 25,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 900
+  },
+  {
+    "info": "3户合租",
+    "area": 25,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 900
+  },
+
+  {
+    "info": "3室2厅",
+    "area": 130,
+    "forward": "朝南北",
+    "position": "开发区",
+    "price": 1250
+  },
+  {
+    "info": "3户合租",
+    "area": 35,
+    "forward": "朝南",
+    "position": "将军大道",
+    "price": 1600
+  },
+  {
+    "info": "3户合租",
+    "area": 25,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 950
+  },
+  {
+    "info": "4室2厅",
+    "area": 127,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 1500
+  },
+  {
+    "info": "2户合租",
+    "area": 110,
+    "forward": "朝南",
+    "position": "秣陵",
+    "price": 900
+  },
+  {
+    "info": "1室1厅",
+    "area": 38,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 1800
+  },
+  {
+    "info": "4室1厅",
+    "area": 28,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 1300
+  },
+  {
+    "info": "4室1厅",
+    "area": 30,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 1100
+  },
+  {
+    "info": "2户合租",
+    "area": 110,
+    "forward": "朝南北",
+    "position": "东山镇",
+    "price": 1100
+  },
+  {
+    "info": "2户合租",
+    "area": 99,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1050
+  },
+  {
+    "info": "2户合租",
+    "area": 30,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 1170
+  },
+  {
+    "info": "2户合租",
+    "area": 980,
+    "forward": "朝南北",
+    "position": "科学园",
+    "price": 850
+  },
+  {
+    "info": "1室1厅",
+    "area": 65,
+    "forward": "朝北",
+    "position": "秣陵",
+    "price": 2200
+  },
+  {
+    "info": "2室1厅",
+    "area": 96,
+    "forward": "朝南北",
+    "position": "汤山",
+    "price": 1300
+  },
+  {
+    "info": "2户合租",
+    "area": 18,
+    "position": "百家湖",
+    "price": 850
+  },
+  {
+    "info": "1室0厅",
+    "area": 40,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1900
+  },
+  {
+    "info": "1室0厅",
+    "area": 20,
+    "forward": "朝北",
+    "position": "百家湖",
+    "price": 1380
+  },
+  {
+    "info": "1室0厅",
+    "area": 38,
+    "forward": "朝北",
+    "position": "将军大道",
+    "price": 1680
+  },
+  {
+    "info": "1室0厅",
+    "area": 30,
+    "forward": "朝北",
+    "position": "百家湖",
+    "price": 1750
+  },
+  {
+    "info": "1室0厅",
+    "area": 28,
+    "forward": "朝西",
+    "position": "开发区",
+    "price": 1680
+  },
+  {
+    "info": "1室0厅",
+    "area": 20,
+    "forward": "朝北",
+    "position": "将军大道",
+    "price": 1400
+  },
+  {
+    "info": "1室0厅",
+    "area": 25,
+    "forward": "朝北",
+    "position": "开发区",
+    "price": 1650
+  },
+  {
+    "info": "3室2厅",
+    "area": 130,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 1250
+  },
+  {
+    "info": "1室1厅",
+    "area": 52,
+    "forward": "朝南北",
+    "position": "汤山",
+    "price": 700
+  },
+  {
+    "info": "3室2厅",
+    "area": 90,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 3000
+  },
+  {
+    "info": "3室1厅",
+    "area": 85,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2750
+  },
+  {
+    "info": "2室1厅",
+    "area": 71,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 4800
+  },
+  {
+    "info": "5户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "将军大道",
+    "price": 1100
+  },
+  {
+    "info": "3户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 900
+  },
+  {
+    "info": "3户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 900
+  },
+
+  {
+    "info": "5户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "将军大道",
+    "price": 1100
+  },
+  {
+    "info": "1室1厅",
+    "area": 40,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 1700
+  },
+  {
+    "info": "2室1厅",
+    "area": 66,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 3300
+  },
+  {
+    "info": "2室1厅",
+    "area": 66,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 3500
+  },
+  {
+    "info": "5户合租",
+    "area": 32,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 850
+  },
+  {
+    "info": "1室1厅",
+    "area": 40,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 1700
+  },
+  {
+    "info": "4室2厅",
+    "area": 108,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 500
+  },
+  {
+    "info": "4室2厅",
+    "area": 108,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 500
+  },
+  {
+    "info": "1室1厅",
+    "area": 20,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1800
+  },
+  {
+    "info": "1室1厅",
+    "area": 30,
+    "forward": "朝西",
+    "position": "将军大道",
+    "price": 1600
+  },
+  {
+    "info": "1室1厅",
+    "area": 50,
+    "forward": "朝南",
+    "position": "将军大道",
+    "price": 2400
+  },
+  {
+    "info": "2室1厅",
+    "area": 81,
+    "forward": "朝南北",
+    "position": "禄口",
+    "price": 1600
+  },
+  {
+    "info": "2室1厅",
+    "area": 50,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2200
+  },
+  {
+    "info": "2户合租",
+    "area": 22,
+    "forward": "朝东南",
+    "position": "百家湖",
+    "price": 900
+  },
+  {
+    "info": "2户合租",
+    "area": 45,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1300
+  },
+  {
+    "info": "6户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "将军大道",
+    "price": 1100
+  },
+  {
+    "info": "1室1厅",
+    "area": 55,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1450
+  },
+  {
+    "info": "2室2厅",
+    "area": 75,
+    "forward": "朝南北",
+    "position": "万科翡翠公园个人房源对比",
+    "price": 4000
+  },
+  {
+    "info": "3室2厅",
+    "area": 126,
+    "forward": "朝南北",
+    "position": "东山镇",
+    "price": 2500
+  },
+  {
+    "info": "3室1厅",
+    "area": 85,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 3500
+  },
+  {
+    "info": "2户合租",
+    "area": 20,
+    "forward": "朝南",
+    "position": "将军大道",
+    "price": 1100
+  },
+  {
+    "info": "1室1厅",
+    "area": 55,
+    "forward": "朝南北",
+    "position": "东山镇",
+    "price": 600
+  },
+  {
+    "info": "2室2厅",
+    "area": 120,
+    "forward": "朝南北",
+    "position": "东山镇",
+    "price": 3300
+  },
+  {
+    "info": "3室1厅",
+    "area": 22,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 1000
+  },
+  {
+    "info": "1室1厅",
+    "area": 25,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 1200
+  },
+  {
+    "info": "3室2厅",
+    "area": 107,
+    "forward": "朝南北",
+    "position": "江宁大学城",
+    "price": 3500
+  },
+  {
+    "info": "9户合租",
+    "area": 10,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 1000
+  },
+  {
+    "info": "2户合租",
+    "area": 15,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 1500
+  },
+  {
+    "info": "3室2厅",
+    "area": 107,
+    "forward": "朝南北",
+    "position": "江宁大学城",
+    "price": 3500
+  },
+  {
+    "info": "3室2厅",
+    "area": 107,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 1500
+  },
+
+  {
+    "info": "2户合租",
+    "area": 10,
+    "forward": "朝北",
+    "position": "江宁大学城",
+    "price": 900
+  },
+  {
+    "info": "1室0厅",
+    "area": 20,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 900
+  },
+  {
+    "info": "2室1厅",
+    "area": 90,
+    "forward": "朝南",
+    "position": "麒麟门",
+    "price": 2500
+  },
+  {
+    "info": "3室2厅",
+    "area": 78,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1600
+  },
+  {
+    "info": "1室1厅",
+    "area": 43,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 1300
+  },
+  {
+    "info": "3室2厅",
+    "area": 132,
+    "forward": "朝南北",
+    "position": "江宁大学城",
+    "price": 3800
+  },
+  {
+    "info": "2室1厅",
+    "area": 58,
+    "forward": "朝东",
+    "position": "东山镇",
+    "price": 3000
+  },
+  {
+    "info": "3室2厅",
+    "area": 76,
+    "forward": "朝南北",
+    "position": "禄口",
+    "price": 1650
+  },
+  {
+    "info": "1室1厅",
+    "area": 61,
+    "forward": "朝南北",
+    "position": "将军大道",
+    "price": 500
+  },
+  {
+    "info": "3室2厅",
+    "area": 90,
+    "forward": "朝南北",
+    "position": "科学园",
+    "price": 2800
+  },
+  {
+    "info": "2室1厅",
+    "area": 77,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2800
+  },
+  {
+    "info": "2室2厅",
+    "area": 80,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2800
+  },
+  {
+    "info": "2室1厅",
+    "area": 65,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2500
+  },
+  {
+    "info": "3室1厅",
+    "area": 95,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 1800
+  },
+  {
+    "info": "2室1厅",
+    "area": 85,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2800
+  },
+  {
+    "info": "3室2厅",
+    "area": 88,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 3200
+  },
+  {
+    "info": "3室1厅",
+    "area": 96,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2800
+  },
+  {
+    "info": "2室2厅",
+    "area": 91,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 3000
+  },
+  {
+    "info": "3室1厅",
+    "area": 110,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 3000
+  },
+  {
+    "info": "2室1厅",
+    "area": 70,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2900
+  },
+  {
+    "info": "1室1厅",
+    "area": 52,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2300
+  },
+  {
+    "info": "2室1厅",
+    "area": 70,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2900
+  },
+  {
+    "info": "2室2厅",
+    "area": 70,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 2800
+  },
+  {
+    "info": "3室2厅",
+    "area": 118,
+    "forward": "朝北",
+    "position": "开发区",
+    "price": 5400
+  },
+  {
+    "info": "3室2厅",
+    "area": 135,
+    "forward": "朝北",
+    "position": "开发区",
+    "price": 6000
+  },
+  {
+    "info": "3室2厅",
+    "area": 113,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 5200
+  },
+  {
+    "info": "2室2厅",
+    "area": 78,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 4500
+  },
+  {
+    "info": "2室2厅",
+    "area": 90,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 4300
+  },
+  {
+    "info": "3室2厅",
+    "area": 134,
+    "forward": "朝西南",
+    "position": "开发区",
+    "price": 4700
+  },
+  {
+    "info": "2室2厅",
+    "area": 95,
+    "forward": "朝东南",
+    "position": "科学园",
+    "price": 3600
+  },
+
+  {
+    "info": "3室2厅",
+    "area": 114,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 5500
+  },
+  {
+    "info": "3室2厅",
+    "area": 134,
+    "forward": "朝西南",
+    "position": "开发区",
+    "price": 4700
+  },
+  {
+    "info": "2室2厅",
+    "area": 100,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 3200
+  },
+  {
+    "info": "2室1厅",
+    "area": 74,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 3900
+  },
+  {
+    "info": "3室2厅",
+    "area": 86,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 5500
+  },
+  {
+    "info": "3室1厅",
+    "area": 88,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 4900
+  },
+  {
+    "info": "2室2厅",
+    "area": 95,
+    "forward": "朝北",
+    "position": "开发区",
+    "price": 6000
+  },
+  {
+    "info": "2室2厅",
+    "area": 78,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 4500
+  },
+  {
+    "info": "4室2厅",
+    "area": 168,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 8000
+  },
+  {
+    "info": "2室1厅",
+    "area": 89,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 4200
+  },
+  {
+    "info": "3室2厅",
+    "area": 130,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 5800
+  },
+  {
+    "info": "2室2厅",
+    "area": 48,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 3500
+  },
+  {
+    "info": "2室1厅",
+    "area": 68,
+    "forward": "朝南",
+    "position": "上坊镇",
+    "price": 1800
+  },
+  {
+    "info": "2室2厅",
+    "area": 69,
+    "forward": "朝南北",
+    "position": "科学园",
+    "price": 2000
+  },
+  {
+    "info": "2室1厅",
+    "area": 65,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2200
+  },
+  {
+    "info": "1室1厅",
+    "area": 45,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 2700
+  },
+  {
+    "info": "1室1厅",
+    "area": 38,
+    "forward": "朝西",
+    "position": "岔路口",
+    "price": 2600
+  },
+  {
+    "info": "1室1厅",
+    "area": 39,
+    "forward": "朝西",
+    "position": "岔路口",
+    "price": 2200
+  },
+  {
+    "info": "1室1厅",
+    "area": 38,
+    "forward": "朝北",
+    "position": "岔路口",
+    "price": 2200
+  },
+  {
+    "info": "1室1厅",
+    "area": 46,
+    "forward": "朝西",
+    "position": "百家湖",
+    "price": 2300
+  },
+  {
+    "info": "1室1厅",
+    "area": 46,
+    "forward": "朝东",
+    "position": "百家湖",
+    "price": 2300
+  },
+  {
+    "info": "2室1厅",
+    "area": 70,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 2500
+  },
+  {
+    "info": "3室2厅",
+    "area": 122,
+    "forward": "朝南北",
+    "position": "东山镇",
+    "price": 4100
+  },
+  {
+    "info": "2室1厅",
+    "area": 67,
+    "forward": "朝南北",
+    "position": "科学园",
+    "price": 2200
+  },
+  {
+    "info": "1室1厅",
+    "area": 45,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 1900
+  },
+  {
+    "info": "2室1厅",
+    "area": 60,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2400
+  },
+  {
+    "info": "2室1厅",
+    "area": 90,
+    "forward": "朝南北",
+    "position": "科学园",
+    "price": 2500
+  },
+  {
+    "info": "2室1厅",
+    "area": 67,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2000
+  },
+  {
+    "info": "3室2厅",
+    "area": 100,
+    "forward": "朝南北",
+    "position": "科学园",
+    "price": 3100
+  },
+  {
+    "info": "3室1厅",
+    "area": 100,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 2800
+  },
+
+  {
+    "info": "2室1厅",
+    "area": 70,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2100
+  },
+  {
+    "info": "1室1厅",
+    "area": 50,
+    "forward": "朝南北",
+    "position": "科学园",
+    "price": 2000
+  },
+  {
+    "info": "2室1厅",
+    "area": 90,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2600
+  },
+  {
+    "info": "2室2厅",
+    "area": 90,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 2500
+  },
+  {
+    "info": "2室2厅",
+    "area": 80,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2400
+  },
+  {
+    "info": "1室1厅",
+    "area": 53,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 1800
+  },
+  {
+    "info": "3室1厅",
+    "area": 117,
+    "forward": "朝南北",
+    "position": "汤山",
+    "price": 1500
+  },
+  {
+    "info": "1室0厅",
+    "area": 50,
+    "forward": "朝南",
+    "position": "麒麟门",
+    "price": 1600
+  },
+  {
+    "info": "2室0厅",
+    "area": 50,
+    "forward": "朝南",
+    "position": "麒麟门",
+    "price": 1800
+  },
+  {
+    "info": "3室1厅",
+    "area": 93,
+    "forward": "朝南",
+    "position": "麒麟门",
+    "price": 1800
+  },
+  {
+    "info": "2室0厅",
+    "area": 77,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 1600
+  },
+  {
+    "info": "2室0厅",
+    "area": 45,
+    "forward": "朝南",
+    "position": "麒麟门",
+    "price": 1600
+  },
+  {
+    "info": "3室1厅",
+    "area": 101,
+    "forward": "朝南北",
+    "position": "汤山",
+    "price": 1750
+  },
+  {
+    "info": "2室0厅",
+    "area": 46,
+    "forward": "朝南",
+    "position": "麒麟门",
+    "price": 1600
+  },
+  {
+    "info": "1室0厅",
+    "area": 40,
+    "forward": "朝东",
+    "position": "麒麟门",
+    "price": 1650
+  },
+  {
+    "info": "1室0厅",
+    "area": 35,
+    "forward": "朝东",
+    "position": "岔路口",
+    "price": 1850
+  },
+  {
+    "info": "1室0厅",
+    "area": 23,
+    "forward": "朝东",
+    "position": "岔路口",
+    "price": 1800
+  },
+  {
+    "info": "1室1厅",
+    "area": 39,
+    "forward": "朝西",
+    "position": "岔路口",
+    "price": 2300
+  },
+  {
+    "info": "2室1厅",
+    "area": 88,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2700
+  },
+  {
+    "info": "2室1厅",
+    "area": 67,
+    "forward": "朝北",
+    "position": "岔路口",
+    "price": 2600
+  },
+  {
+    "info": "1室1厅",
+    "area": 52,
+    "forward": "朝东",
+    "position": "岔路口",
+    "price": 2100
+  },
+  {
+    "info": "3室2厅",
+    "area": 93,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2700
+  },
+  {
+    "info": "1室1厅",
+    "area": 37,
+    "forward": "朝北",
+    "position": "岔路口",
+    "price": 2000
+  },
+  {
+    "info": "1室1厅",
+    "area": 41,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 2300
+  },
+  {
+    "info": "2室1厅",
+    "area": 55,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 2600
+  },
+  {
+    "info": "2室2厅",
+    "area": 62,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2500
+  },
+  {
+    "info": "1室1厅",
+    "area": 39,
+    "forward": "朝西",
+    "position": "岔路口",
+    "price": 2100
+  },
+  {
+    "info": "2室1厅",
+    "area": 83,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 3500
+  },
+  {
+    "info": "2室2厅",
+    "area": 89,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2800
+  },
+  {
+    "info": "1室1厅",
+    "area": 43,
+    "forward": "朝北",
+    "position": "岔路口",
+    "price": 2100
+  },
+
+  {
+    "info": "2室1厅",
+    "area": 70,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2700
+  },
+  {
+    "info": "3室2厅",
+    "area": 116,
+    "forward": "朝南",
+    "position": "麒麟门",
+    "price": 2600
+  },
+  {
+    "info": "2室2厅",
+    "area": 80,
+    "forward": "朝南",
+    "position": "麒麟门",
+    "price": 1900
+  },
+  {
+    "info": "3室2厅",
+    "area": 125,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 2100
+  },
+  {
+    "info": "2室1厅",
+    "area": 92,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 2400
+  },
+  {
+    "info": "3室1厅",
+    "area": 90,
+    "forward": "朝南",
+    "position": "麒麟门",
+    "price": 1750
+  },
+  {
+    "info": "2室2厅",
+    "area": 86,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 2300
+  },
+  {
+    "info": "2室2厅",
+    "area": 86,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 2100
+  },
+  {
+    "info": "2室2厅",
+    "area": 94,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 2300
+  },
+  {
+    "info": "3室1厅",
+    "area": 97,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 2400
+  },
+  {
+    "info": "2室1厅",
+    "area": 87,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 2000
+  },
+  {
+    "info": "2室1厅",
+    "area": 94,
+    "forward": "朝南",
+    "position": "麒麟门",
+    "price": 2000
+  },
+  {
+    "info": "3室2厅",
+    "area": 108,
+    "forward": "朝南",
+    "position": "麒麟门",
+    "price": 2200
+  },
+  {
+    "info": "3室2厅",
+    "area": 83,
+    "forward": "朝南",
+    "position": "麒麟门",
+    "price": 2000
+  },
+  {
+    "info": "2室1厅",
+    "area": 47,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 2500
+  },
+  {
+    "info": "3室1厅",
+    "area": 97,
+    "forward": "朝南",
+    "position": "麒麟门",
+    "price": 2300
+  },
+  {
+    "info": "1室1厅",
+    "area": 52,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 1650
+  },
+  {
+    "info": "1室1厅",
+    "area": 40,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 2000
+  },
+  {
+    "info": "3室1厅",
+    "area": 104,
+    "forward": "朝南",
+    "position": "汤山",
+    "price": 1800
+  },
+  {
+    "info": "2室1厅",
+    "area": 49,
+    "forward": "朝东南",
+    "position": "麒麟门",
+    "price": 1600
+  },
+  {
+    "info": "2室1厅",
+    "area": 45,
+    "forward": "朝南",
+    "position": "麒麟门",
+    "price": 1800
+  },
+  {
+    "info": "2室0厅",
+    "area": 45,
+    "forward": "朝南",
+    "position": "麒麟门",
+    "price": 1400
+  },
+  {
+    "info": "2室1厅",
+    "area": 45,
+    "forward": "朝南",
+    "position": "麒麟门",
+    "price": 1800
+  },
+  {
+    "info": "3室1厅",
+    "area": 104,
+    "forward": "朝南",
+    "position": "汤山",
+    "price": 1800
+  },
+  {
+    "info": "2室1厅",
+    "area": 60,
+    "forward": "朝东",
+    "position": "麒麟门",
+    "price": 1500
+  },
+  {
+    "info": "2室1厅",
+    "area": 72,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 3000
+  },
+  {
+    "info": "2室1厅",
+    "area": 83,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 3800
+  },
+  {
+    "info": "1室1厅",
+    "area": 58,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2500
+  },
+  {
+    "info": "3室2厅",
+    "area": 134,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 4200
+  },
+  {
+    "info": "1室1厅",
+    "area": 52,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2500
+  },
+
+  {
+    "info": "1室1厅",
+    "area": 45,
+    "forward": "朝东",
+    "position": "岔路口",
+    "price": 1900
+  },
+  {
+    "info": "2室1厅",
+    "area": 72,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 3100
+  },
+  {
+    "info": "1室1厅",
+    "area": 58,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2300
+  },
+  {
+    "info": "2室1厅",
+    "area": 72,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 3100
+  },
+  {
+    "info": "1室1厅",
+    "area": 1750,
+    "forward": "朝西",
+    "position": "岔路口",
+    "price": 1750
+  },
+  {
+    "info": "2室2厅",
+    "area": 92,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2700
+  },
+  {
+    "info": "3户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1800
+  },
+  {
+    "info": "1室1厅",
+    "area": 40,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2000
+  },
+  {
+    "info": "4户合租",
+    "area": 40,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1600
+  },
+  {
+    "info": "4户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 1350
+  },
+  {
+    "info": "4户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 1350
+  },
+  {
+    "info": "4户合租",
+    "area": 40,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1900
+  },
+  {
+    "info": "6户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1700
+  },
+  {
+    "info": "1室1厅",
+    "area": 40,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1300
+  },
+  {
+    "info": "4户合租",
+    "area": 25,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1250
+  },
+  {
+    "info": "1室1厅",
+    "area": 40,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1700
+  },
+  {
+    "info": "1室1厅",
+    "area": 35,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1600
+  },
+  {
+    "info": "4户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 1000
+  },
+  {
+    "info": "1室1厅",
+    "area": 38,
+    "forward": "朝西",
+    "position": "岔路口",
+    "price": 2300
+  },
+  {
+    "info": "2室2厅",
+    "area": 97,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 3000
+  },
+  {
+    "info": "1室1厅",
+    "area": 51,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2100
+  },
+  {
+    "info": "1室1厅",
+    "area": 50,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2200
+  },
+  {
+    "info": "2室1厅",
+    "area": 94,
+    "position": "岔路口",
+    "price": 3300
+  },
+  {
+    "info": "2室1厅",
+    "area": 70,
+    "position": "岔路口",
+    "price": 2100
+  },
+  {
+    "info": "2室2厅",
+    "area": 90,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2800
+  },
+  {
+    "info": "1室1厅",
+    "area": 51,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2100
+  },
+  {
+    "info": "2室2厅",
+    "area": 67,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 2300
+  },
+  {
+    "info": "1室1厅",
+    "area": 37,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2400
+  },
+  {
+    "info": "2室2厅",
+    "area": 60,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 3500
+  },
+  {
+    "info": "2室2厅",
+    "area": 65,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 2600
+  },
+
+  {
+    "info": "2室2厅",
+    "area": 70,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2950
+  },
+  {
+    "info": "1室1厅",
+    "area": 35,
+    "forward": "朝东",
+    "position": "岔路口",
+    "price": 1850
+  },
+  {
+    "info": "1室1厅",
+    "area": 37,
+    "forward": "朝东",
+    "position": "岔路口",
+    "price": 1850
+  },
+  {
+    "info": "3室2厅",
+    "area": 89,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 3200
+  },
+  {
+    "info": "2室2厅",
+    "area": 65,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 2600
+  },
+  {
+    "info": "3室2厅",
+    "area": 130,
+    "forward": "朝南北",
+    "position": "东山镇",
+    "price": 4500
+  },
+  {
+    "info": "2室1厅",
+    "area": 105,
+    "forward": "朝南北",
+    "position": "东山镇",
+    "price": 3000
+  },
+  {
+    "info": "2室1厅",
+    "area": 106,
+    "forward": "朝南北",
+    "position": "开发区",
+    "price": 3200
+  },
+  {
+    "info": "2室1厅",
+    "area": 75,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 2700
+  },
+  {
+    "info": "1室1厅",
+    "area": 50,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 2100
+  },
+  {
+    "info": "3室2厅",
+    "area": 89,
+    "forward": "朝西北",
+    "position": "岔路口",
+    "price": 3500
+  },
+  {
+    "info": "2室2厅",
+    "area": 35,
+    "forward": "朝北",
+    "position": "东山镇",
+    "price": 2700
+  },
+  {
+    "info": "2室1厅",
+    "area": 35,
+    "forward": "朝北",
+    "position": "东山镇",
+    "price": 2900
+  },
+  {
+    "info": "3室1厅",
+    "area": 90,
+    "forward": "朝南",
+    "position": "上坊镇",
+    "price": 2200
+  },
+  {
+    "info": "4室2厅",
+    "area": 120,
+    "forward": "朝南",
+    "position": "秣陵",
+    "price": 5300
+  },
+  {
+    "info": "2室2厅",
+    "area": 90,
+    "forward": "朝南北",
+    "position": "上坊镇",
+    "price": 2200
+  },
+  {
+    "info": "1室1厅",
+    "area": 46,
+    "forward": "朝西",
+    "position": "岔路口",
+    "price": 2200
+  },
+  {
+    "info": "2室1厅",
+    "area": 80,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 3200
+  },
+  {
+    "info": "2室2厅",
+    "area": 65,
+    "forward": "朝南",
+    "position": "将军大道",
+    "price": 3000
+  },
+  {
+    "info": "2户合租",
+    "area": 40,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1600
+  },
+  {
+    "info": "2户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1700
+  },
+  {
+    "info": "2户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1100
+  },
+  {
+    "info": "2户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1600
+  },
+  {
+    "info": "5户合租",
+    "area": 30,
+    "forward": "朝南北",
+    "position": "开发区",
+    "price": 1200
+  },
+  {
+    "info": "5户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1300
+  },
+  {
+    "info": "2户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1000
+  },
+  {
+    "info": "2户合租",
+    "area": 40,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1700
+  },
+  {
+    "info": "4户合租",
+    "area": 25,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1250
+  },
+  {
+    "info": "5户合租",
+    "area": 40,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1700
+  },
+  {
+    "info": "5户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1400
+  },
+
+  {
+    "info": "2户合租",
+    "area": 30,
+    "forward": "朝南北",
+    "position": "东山镇",
+    "price": 1600
+  },
+  {
+    "info": "2室2厅",
+    "area": 67,
+    "forward": "朝南北",
+    "position": "开发区",
+    "price": 2800
+  },
+  {
+    "info": "2室1厅",
+    "area": 70,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2000
+  },
+  {
+    "info": "2室2厅",
+    "area": 88,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 2800
+  },
+  {
+    "info": "2室1厅",
+    "area": 68,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 1800
+  },
+  {
+    "info": "2室1厅",
+    "area": 68,
+    "forward": "朝南",
+    "position": "上坊镇",
+    "price": 1800
+  },
+  {
+    "info": "4户合租",
+    "area": 88,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 500
+  },
+  {
+    "info": "3室1厅",
+    "area": 95,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 3000
+  },
+  {
+    "info": "2室1厅",
+    "area": 78,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 3100
+  },
+  {
+    "info": "1室1厅",
+    "area": 36,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 1600
+  },
+  {
+    "info": "3室2厅",
+    "area": 117,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 3000
+  },
+  {
+    "info": "2室1厅",
+    "area": 87,
+    "position": "岔路口",
+    "price": 3000
+  },
+  {
+    "info": "3室2厅",
+    "area": 110,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2900
+  },
+  {
+    "info": "2室2厅",
+    "area": 97,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2700
+  },
+  {
+    "info": "1室1厅",
+    "area": 24,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 1400
+  },
+  {
+    "info": "3室2厅",
+    "area": 92,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2300
+  },
+  {
+    "info": "1室1厅",
+    "area": 40,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 1800
+  },
+  {
+    "info": "3室1厅",
+    "area": 108,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 3500
+  },
+  {
+    "info": "1室1厅",
+    "area": 55,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 1800
+  },
+  {
+    "info": "2室1厅",
+    "area": 89,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 2600
+  },
+  {
+    "info": "3室1厅",
+    "area": 86,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2400
+  },
+  {
+    "info": "2室2厅",
+    "area": 120,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 3000
+  },
+  {
+    "info": "1室1厅",
+    "area": 55,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2000
+  },
+  {
+    "info": "2室2厅",
+    "area": 90,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2500
+  },
+  {
+    "info": "3室2厅",
+    "area": 95,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 2500
+  },
+  {
+    "info": "2室1厅",
+    "area": 80,
+    "forward": "朝南",
+    "position": "麒麟门",
+    "price": 2600
+  },
+  {
+    "info": "2室2厅",
+    "area": 80,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 2500
+  },
+  {
+    "info": "3室2厅",
+    "area": 88,
+    "forward": "朝南",
+    "position": "麒麟门",
+    "price": 2500
+  },
+  {
+    "info": "2室1厅",
+    "area": 46,
+    "forward": "朝南",
+    "position": "麒麟门",
+    "price": 1700
+  },
+  {
+    "info": "2室2厅",
+    "area": 65,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 2600
+  },
+
+  {
+    "info": "3室1厅",
+    "area": 118,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 2600
+  },
+  {
+    "info": "5户合租",
+    "area": 40,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1900
+  },
+  {
+    "info": "2户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1300
+  },
+  {
+    "info": "4户合租",
+    "area": 40,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1600
+  },
+  {
+    "info": "2户合租",
+    "area": 38,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1400
+  },
+  {
+    "info": "5户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1700
+  },
+  {
+    "info": "1室1厅",
+    "area": 40,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1900
+  },
+  {
+    "info": "2户合租",
+    "area": 40,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1800
+  },
+  {
+    "info": "5户合租",
+    "area": 28,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1300
+  },
+  {
+    "info": "2户合租",
+    "area": 30,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 1100
+  },
+  {
+    "info": "1室1厅",
+    "area": 40,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1900
+  },
+  {
+    "info": "2户合租",
+    "area": 40,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1500
+  },
+  {
+    "info": "5户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 1750
+  },
+  {
+    "info": "3室2厅",
+    "area": 140,
+    "forward": "朝南北",
+    "position": "万科翡翠公园对比",
+    "price": 5600
+  },
+  {
+    "info": "5室2厅",
+    "area": 251,
+    "forward": "朝南北",
+    "position": "将军大道",
+    "price": 20000
+  },
+  {
+    "info": "2室2厅",
+    "area": 92,
+    "forward": "朝南北",
+    "position": "科学园",
+    "price": 5000
+  },
+  {
+    "info": "3室2厅",
+    "area": 114,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 6800
+  },
+  {
+    "info": "2室2厅",
+    "area": 90,
+    "forward": "朝南北",
+    "position": "开发区",
+    "price": 4200
+  },
+  {
+    "info": "2室2厅",
+    "area": 68,
+    "forward": "朝南北",
+    "position": "开发区",
+    "price": 1900
+  },
+  {
+    "info": "2室1厅",
+    "area": 70,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 1800
+  },
+  {
+    "info": "1室1厅",
+    "area": 48,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 2200
+  },
+  {
+    "info": "1室1厅",
+    "area": 40,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 2300
+  },
+  {
+    "info": "2室2厅",
+    "area": 68,
+    "forward": "朝南北",
+    "position": "开发区",
+    "price": 2600
+  },
+  {
+    "info": "1室1厅",
+    "area": 50,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2000
+  },
+  {
+    "info": "4户合租",
+    "area": 90,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 600
+  },
+  {
+    "info": "2室2厅",
+    "area": 80,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2600
+  },
+  {
+    "info": "1室1厅",
+    "area": 40,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 2500
+  },
+  {
+    "info": "3户合租",
+    "area": 38,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1400
+  },
+  {
+    "info": "5室2厅",
+    "area": 186,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 6000
+  },
+  {
+    "info": "2室1厅",
+    "area": 60,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 4500
+  },
+
+  {
+    "info": "2室1厅",
+    "area": 93,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 3500
+  },
+  {
+    "info": "2室1厅",
+    "area": 65,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2500
+  },
+  {
+    "info": "1室1厅",
+    "area": 47,
+    "forward": "朝东",
+    "position": "百家湖",
+    "price": 2100
+  },
+  {
+    "info": "2户合租",
+    "area": 20,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 950
+  },
+  {
+    "info": "3室2厅",
+    "area": 120,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 2600
+  },
+  {
+    "info": "2室2厅",
+    "area": 89,
+    "forward": "朝南北",
+    "position": "秣陵",
+    "price": 2600
+  },
+  {
+    "info": "1室1厅",
+    "area": 28,
+    "forward": "朝东",
+    "position": "百家湖",
+    "price": 1000
+  },
+  {
+    "info": "4户合租",
+    "area": 118,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 650
+  },
+  {
+    "info": "2室1厅",
+    "area": 47,
+    "forward": "朝南北",
+    "position": "秣陵",
+    "price": 2400
+  },
+  {
+    "info": "3户合租",
+    "area": 20,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 750
+  },
+  {
+    "info": "3室1厅",
+    "area": 106,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 2600
+  },
+  {
+    "info": "2室1厅",
+    "area": 73,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2200
+  },
+  {
+    "info": "3户合租",
+    "area": 88,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 500
+  },
+  {
+    "info": "1室1厅",
+    "area": 39,
+    "forward": "朝南",
+    "position": "秣陵",
+    "price": 2100
+  },
+  {
+    "info": "3室2厅",
+    "area": 241,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 26000
+  },
+  {
+    "info": "1室1厅",
+    "area": 30,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1500
+  },
+  {
+    "info": "2室1厅",
+    "area": 68,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2100
+  },
+  {
+    "info": "3户合租",
+    "area": 15,
+    "forward": "朝南",
+    "position": "秣陵",
+    "price": 1000
+  },
+  {
+    "info": "4户合租",
+    "area": 89,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 500
+  },
+  {
+    "info": "1室1厅",
+    "area": 25,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 1450
+  },
+  {
+    "info": "3室2厅",
+    "area": 120,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 3800
+  },
+  {
+    "info": "1室1厅",
+    "area": 43,
+    "forward": "朝南",
+    "position": "秣陵",
+    "price": 2100
+  },
+  {
+    "info": "2室1厅",
+    "area": 67,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 1800
+  },
+  {
+    "info": "3户合租",
+    "area": 24,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 750
+  },
+  {
+    "info": "4室2厅",
+    "area": 88,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 650
+  },
+  {
+    "info": "1室1厅",
+    "area": 11,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 800
+  },
+  {
+    "info": "1室1厅",
+    "area": 35,
+    "position": "岔路口",
+    "price": 1800
+  },
+  {
+    "info": "3室2厅",
+    "area": 120,
+    "forward": "朝东西",
+    "position": "百家湖",
+    "price": 3500
+  },
+  {
+    "info": "3室1厅",
+    "area": 118,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 3000
+  },
+  {
+    "info": "3户合租",
+    "area": 20,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 900
+  },
+
+  {
+    "info": "4户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1200
+  },
+  {
+    "info": "4户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1000
+  },
+  {
+    "info": "1室1厅",
+    "area": 35,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 1300
+  },
+  {
+    "info": "3户合租",
+    "area": 25,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1100
+  },
+  {
+    "info": "1室1厅",
+    "area": 30,
+    "forward": "朝南",
+    "position": "将军大道",
+    "price": 1600
+  },
+  {
+    "info": "1室1厅",
+    "area": 30,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1300
+  },
+  {
+    "info": "1室1厅",
+    "area": 30,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 1700
+  },
+  {
+    "info": "2户合租",
+    "area": 40,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 1800
+  },
+  {
+    "info": "5户合租",
+    "area": 20,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 950
+  },
+  {
+    "info": "4户合租",
+    "area": 25,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 700
+  },
+  {
+    "info": "1室1厅",
+    "area": 40,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1400
+  },
+  {
+    "info": "2室1厅",
+    "area": 50,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 3300
+  },
+  {
+    "info": "3室1厅",
+    "area": 118,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 3100
+  },
+  {
+    "info": "3室1厅",
+    "area": 89,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 3000
+  },
+  {
+    "info": "5户合租",
+    "area": 500,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 400
+  },
+  {
+    "info": "3室2厅",
+    "area": 116,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 5000
+  },
+  {
+    "info": "3室1厅",
+    "area": 98,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 2700
+  },
+  {
+    "info": "3室2厅",
+    "area": 139,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 5200
+  },
+  {
+    "info": "2室2厅",
+    "area": 75,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 3000
+  },
+  {
+    "info": "2室1厅",
+    "area": 40,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 2100
+  },
+  {
+    "info": "1室1厅",
+    "area": 30,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 1850
+  },
+  {
+    "info": "3室2厅",
+    "area": 96,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 2800
+  },
+  {
+    "info": "2室2厅",
+    "area": 105,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 3500
+  },
+  {
+    "info": "1室1厅",
+    "area": 40,
+    "forward": "朝北",
+    "position": "东山镇",
+    "price": 2100
+  },
+  {
+    "info": "5户合租",
+    "area": 20,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 800
+  },
+  {
+    "info": "1室0厅",
+    "area": 20,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 800
+  },
+  {
+    "info": "4户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 900
+  },
+  {
+    "info": "1室1厅",
+    "area": 30,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1700
+  },
+  {
+    "info": "6户合租",
+    "area": 20,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 600
+  },
+  {
+    "info": "4户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1100
+  },
+
+  {
+    "info": "1室1厅",
+    "area": 28,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 1300
+  },
+  {
+    "info": "5户合租",
+    "area": 20,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 550
+  },
+  {
+    "info": "6户合租",
+    "area": 20,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 900
+  },
+  {
+    "info": "5户合租",
+    "area": 20,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 800
+  },
+  {
+    "info": "2室0厅",
+    "area": 60,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 3000
+  },
+  {
+    "info": "5户合租",
+    "area": 20,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 780
+  },
+  {
+    "info": "3室2厅",
+    "area": 123,
+    "forward": "朝南北",
+    "position": "科学园",
+    "price": 3500
+  },
+  {
+    "info": "2室2厅",
+    "area": 96,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 2800
+  },
+  {
+    "info": "3室2厅",
+    "area": 130,
+    "forward": "朝南北",
+    "position": "东山镇",
+    "price": 3300
+  },
+  {
+    "info": "2室2厅",
+    "area": 105,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 2800
+  },
+  {
+    "info": "2室2厅",
+    "area": 47,
+    "forward": "朝东",
+    "position": "科学园",
+    "price": 2700
+  },
+  {
+    "info": "2室2厅",
+    "area": 100,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 3000
+  },
+  {
+    "info": "2室1厅",
+    "area": 77,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 2500
+  },
+  {
+    "info": "2室2厅",
+    "area": 100,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 3000
+  },
+  {
+    "info": "2室2厅",
+    "area": 80,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2200
+  },
+  {
+    "info": "2室1厅",
+    "area": 76,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2400
+  },
+  {
+    "info": "2室2厅",
+    "area": 47,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 2800
+  },
+  {
+    "info": "2室2厅",
+    "area": 65,
+    "forward": "朝南北",
+    "position": "科学园",
+    "price": 4200
+  },
+  {
+    "info": "2室2厅",
+    "area": 100,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 3000
+  },
+  {
+    "info": "2室1厅",
+    "area": 40,
+    "forward": "朝东",
+    "position": "麒麟门",
+    "price": 1200
+  },
+  {
+    "info": "1室1厅",
+    "area": 55,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2100
+  },
+  {
+    "info": "4户合租",
+    "area": 30,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 650
+  },
+  {
+    "info": "2室1厅",
+    "area": 105,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 3200
+  },
+  {
+    "info": "1室1厅",
+    "area": 52,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 2500
+  },
+  {
+    "info": "2室1厅",
+    "area": 65,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2300
+  },
+  {
+    "info": "2室1厅",
+    "area": 70,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 2300
+  },
+  {
+    "info": "3室2厅",
+    "area": 139,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 6000
+  },
+  {
+    "info": "3室2厅",
+    "area": 100,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 3600
+  },
+  {
+    "info": "2户合租",
+    "area": 48,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 700
+  },
+  {
+    "info": "2室1厅",
+    "area": 88,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 1500
+  },
+
+  {
+    "info": "3室2厅",
+    "area": 126,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 4000
+  },
+  {
+    "info": "2室2厅",
+    "area": 82,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 2650
+  },
+  {
+    "info": "2室2厅",
+    "area": 267,
+    "forward": "朝南北",
+    "position": "开发区",
+    "price": 6000
+  },
+  {
+    "info": "2室1厅",
+    "area": 38,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 1550
+  },
+  {
+    "info": "2室1厅",
+    "area": 100,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2800
+  },
+  {
+    "info": "1室1厅",
+    "area": 47,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 2500
+  },
+  {
+    "info": "3室2厅",
+    "area": 103,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 3000
+  },
+  {
+    "info": "5室3厅",
+    "area": 140,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 3000
+  },
+  {
+    "info": "2室1厅",
+    "area": 92,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 3000
+  },
+  {
+    "info": "2室2厅",
+    "area": 75,
+    "forward": "朝南",
+    "position": "万科翡翠公园对比",
+    "price": 3500
+  },
+  {
+    "info": "3室1厅",
+    "area": 89,
+    "forward": "朝南",
+    "position": "万科翡翠公园对比",
+    "price": 4000
+  },
+  {
+    "info": "2室2厅",
+    "area": 135,
+    "forward": "朝南北",
+    "position": "东山镇",
+    "price": 3200
+  },
+  {
+    "info": "3室2厅",
+    "area": 91,
+    "forward": "朝南",
+    "position": "万科翡翠公园对比",
+    "price": 4700
+  },
+  {
+    "info": "5户合租",
+    "area": 108,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 700
+  },
+  {
+    "info": "1室1厅",
+    "area": 46,
+    "forward": "朝东",
+    "position": "东山镇",
+    "price": 1700
+  },
+  {
+    "info": "1室1厅",
+    "area": 25,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 1100
+  },
+  {
+    "info": "3室2厅",
+    "area": 91,
+    "forward": "朝南",
+    "position": "万科翡翠公园对比",
+    "price": 4300
+  },
+  {
+    "info": "2室1厅",
+    "area": 89,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 2800
+  },
+  {
+    "info": "3室2厅",
+    "area": 150,
+    "forward": "朝南北",
+    "position": "将军大道",
+    "price": 4300
+  },
+  {
+    "info": "2室1厅",
+    "area": 87,
+    "forward": "朝南",
+    "position": "秣陵",
+    "price": 3200
+  },
+  {
+    "info": "2室1厅",
+    "area": 89,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 2800
+  },
+  {
+    "info": "2室1厅",
+    "area": 89,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 2800
+  },
+  {
+    "info": "3室2厅",
+    "area": 89,
+    "position": "开发区",
+    "price": 4300
+  },
+  {
+    "info": "4户合租",
+    "area": 98,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 1200
+  },
+  {
+    "info": "3室2厅",
+    "area": 137,
+    "forward": "朝南",
+    "position": "万科翡翠公园对比",
+    "price": 4500
+  },
+  {
+    "info": "1室1厅",
+    "area": 28,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 1500
+  },
+  {
+    "info": "3室2厅",
+    "area": 100,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 2600
+  },
+  {
+    "info": "3室2厅",
+    "area": 90,
+    "forward": "朝南",
+    "position": "万科翡翠公园对比",
+    "price": 4600
+  },
+  {
+    "info": "3户合租",
+    "area": 50,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 450
+  },
+  {
+    "info": "2室2厅",
+    "area": 85,
+    "forward": "朝南北",
+    "position": "科学园",
+    "price": 2600
+  },
+
+  {
+    "info": "2室2厅",
+    "area": 84,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 3000
+  },
+  {
+    "info": "4室1厅",
+    "area": 106,
+    "position": "岔路口",
+    "price": 4000
+  },
+  {
+    "info": "2室2厅",
+    "area": 80,
+    "position": "岔路口",
+    "price": 2800
+  },
+  {
+    "info": "4户合租",
+    "area": 90,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 450
+  },
+  {
+    "info": "2室2厅",
+    "area": 85,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 3100
+  },
+  {
+    "info": "2室2厅",
+    "area": 80,
+    "forward": "朝南北",
+    "position": "开发区",
+    "price": 2500
+  },
+  {
+    "info": "9室2厅",
+    "area": 252,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 8000
+  },
+  {
+    "info": "3室1厅",
+    "area": 96,
+    "position": "岔路口",
+    "price": 2800
+  },
+  {
+    "info": "3室2厅",
+    "area": 106,
+    "position": "岔路口",
+    "price": 3600
+  },
+  {
+    "info": "3室2厅",
+    "area": 120,
+    "position": "秣陵",
+    "price": 5800
+  },
+  {
+    "info": "4室3厅",
+    "area": 155,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 4000
+  },
+  {
+    "info": "3室2厅",
+    "area": 126,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 2200
+  },
+  {
+    "info": "3室2厅",
+    "area": 122,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 3500
+  },
+  {
+    "info": "3室1厅",
+    "area": 120,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 3000
+  },
+  {
+    "info": "1室1厅",
+    "area": 54,
+    "forward": "朝北",
+    "position": "百家湖",
+    "price": 2450
+  },
+  {
+    "info": "3室2厅",
+    "area": 113,
+    "forward": "朝南北",
+    "position": "开发区",
+    "price": 4200
+  },
+  {
+    "info": "3室1厅",
+    "area": 96,
+    "forward": "朝南",
+    "position": "秣陵",
+    "price": 4000
+  },
+  {
+    "info": "3室2厅",
+    "area": 106,
+    "forward": "朝南北",
+    "position": "秣陵",
+    "price": 3600
+  },
+  {
+    "info": "5室2厅",
+    "area": 167,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 4500
+  },
+  {
+    "info": "2室2厅",
+    "area": 83,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 4500
+  },
+  {
+    "info": "3室2厅",
+    "area": 101,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 6000
+  },
+  {
+    "info": "2室1厅",
+    "area": 39,
+    "forward": "朝西",
+    "position": "麒麟门",
+    "price": 1300
+  },
+  {
+    "info": "5室3厅",
+    "area": 262,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 16000
+  },
+  {
+    "info": "2室1厅",
+    "area": 41,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 1400
+  },
+  {
+    "info": "4室3厅",
+    "area": 267,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 7200
+  },
+  {
+    "info": "2室2厅",
+    "area": 90,
+    "position": "岔路口",
+    "price": 2900
+  },
+  {
+    "info": "3室2厅",
+    "area": 120,
+    "position": "秣陵",
+    "price": 5000
+  },
+  {
+    "info": "2室2厅",
+    "area": 130,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 3800
+  },
+  {
+    "info": "4室2厅",
+    "area": 216,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 7000
+  },
+  {
+    "info": "3室2厅",
+    "area": 90,
+    "forward": "朝南",
+    "position": "秣陵",
+    "price": 4000
+  },
+
+  {
+    "info": "3室2厅",
+    "area": 92,
+    "forward": "朝南",
+    "position": "秣陵",
+    "price": 4080
+  },
+  {
+    "info": "2室2厅",
+    "area": 83,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 3200
+  },
+  {
+    "info": "6室3厅",
+    "area": 253,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 7500
+  },
+  {
+    "info": "2室2厅",
+    "area": 80,
+    "forward": "朝南北",
+    "position": "科学园",
+    "price": 2400
+  },
+  {
+    "info": "5室2厅",
+    "area": 251,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 8000
+  },
+  {
+    "info": "6室3厅",
+    "area": 253,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 8000
+  },
+  {
+    "info": "3室2厅",
+    "area": 97,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 5300
+  },
+  {
+    "info": "4室2厅",
+    "area": 142,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 4500
+  },
+  {
+    "info": "2室1厅",
+    "area": 63,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 2800
+  },
+  {
+    "info": "2室1厅",
+    "area": 75,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2200
+  },
+  {
+    "info": "2室1厅",
+    "area": 67,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 1800
+  },
+  {
+    "info": "3室1厅",
+    "area": 76,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2000
+  },
+  {
+    "info": "1室1厅",
+    "area": 43,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 1200
+  },
+  {
+    "info": "2室2厅",
+    "area": 76,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 2100
+  },
+  {
+    "info": "3室1厅",
+    "area": 78,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 2200
+  },
+  {
+    "info": "1室1厅",
+    "area": 43,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2000
+  },
+  {
+    "info": "1室1厅",
+    "area": 48,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 1000
+  },
+  {
+    "info": "1室1厅",
+    "area": 48,
+    "forward": "朝南",
+    "position": "秣陵",
+    "price": 1200
+  },
+  {
+    "info": "3室1厅",
+    "area": 87,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2700
+  },
+  {
+    "info": "2室1厅",
+    "area": 71,
+    "forward": "朝南",
+    "position": "秣陵",
+    "price": 2000
+  },
+  {
+    "info": "3室1厅",
+    "area": 72,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2200
+  },
+  {
+    "info": "2室2厅",
+    "area": 68,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 1800
+  },
+  {
+    "info": "2室1厅",
+    "area": 68,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2000
+  },
+  {
+    "info": "2室1厅",
+    "area": 60,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 3300
+  },
+  {
+    "info": "3室2厅",
+    "area": 130,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 4000
+  },
+  {
+    "info": "2室1厅",
+    "area": 67,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 3000
+  },
+  {
+    "info": "2室1厅",
+    "area": 89,
+    "forward": "朝南北",
+    "position": "东山镇",
+    "price": 2600
+  },
+  {
+    "info": "1室1厅",
+    "area": 40,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 2000
+  },
+  {
+    "info": "3室2厅",
+    "area": 98,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 4000
+  },
+  {
+    "info": "2室1厅",
+    "area": 44,
+    "forward": "朝南",
+    "position": "麒麟门",
+    "price": 1600
+  },
+
+  {
+    "info": "3室1厅",
+    "area": 93,
+    "position": "麒麟门",
+    "price": 1800
+  },
+  {
+    "info": "2室1厅",
+    "area": 60,
+    "position": "麒麟门",
+    "price": 1500
+  },
+  {
+    "info": "3室1厅",
+    "area": 117,
+    "position": "汤山",
+    "price": 1500
+  },
+  {
+    "info": "3室1厅",
+    "area": 104,
+    "position": "汤山",
+    "price": 1800
+  },
+  {
+    "info": "2室0厅",
+    "area": 45,
+    "position": "麒麟门",
+    "price": 1600
+  },
+  {
+    "info": "2室2厅",
+    "area": 113,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 6500
+  },
+  {
+    "info": "2室1厅",
+    "area": 70,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 2400
+  },
+  {
+    "info": "2室1厅",
+    "area": 82,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 5300
+  },
+  {
+    "info": "3室2厅",
+    "area": 91,
+    "forward": "朝南北",
+    "position": "万科翡翠公园对比",
+    "price": 4800
+  },
+  {
+    "info": "2室1厅",
+    "area": 75,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 2900
+  },
+  {
+    "info": "1室1厅",
+    "area": 43,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 1900
+  },
+  {
+    "info": "2室1厅",
+    "area": 78,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 4500
+  },
+  {
+    "info": "2室2厅",
+    "area": 98,
+    "forward": "朝南北",
+    "position": "东山镇",
+    "price": 3200
+  },
+  {
+    "info": "6室1厅",
+    "area": 160,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 5000
+  },
+  {
+    "info": "2室1厅",
+    "area": 70,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 3100
+  },
+  {
+    "info": "2室1厅",
+    "area": 84,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2900
+  },
+  {
+    "info": "3室1厅",
+    "area": 93,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 3800
+  },
+  {
+    "info": "2室1厅",
+    "area": 67,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2900
+  },
+  {
+    "info": "1室1厅",
+    "area": 40,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 2200
+  },
+  {
+    "info": "2室2厅",
+    "area": 96,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 3500
+  },
+  {
+    "info": "3室1厅",
+    "area": 85,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 2650
+  },
+  {
+    "info": "2室2厅",
+    "area": 85,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 3500
+  },
+  {
+    "info": "2室2厅",
+    "area": 88,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 3300
+  },
+  {
+    "info": "2室2厅",
+    "area": 76,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 3100
+  },
+  {
+    "info": "2室2厅",
+    "area": 80,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 3000
+  },
+  {
+    "info": "2室2厅",
+    "area": 99,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 3500
+  },
+  {
+    "info": "2室2厅",
+    "area": 80,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 3000
+  },
+  {
+    "info": "2室2厅",
+    "area": 80,
+    "forward": "朝南",
+    "position": "麒麟门",
+    "price": 2100
+  },
+  {
+    "info": "2户合租",
+    "area": 116,
+    "forward": "朝南",
+    "position": "麒麟门",
+    "price": 900
+  },
+  {
+    "info": "3室2厅",
+    "area": 99,
+    "forward": "朝南",
+    "position": "麒麟门",
+    "price": 2400
+  },
+
+  {
+    "info": "3室2厅",
+    "area": 80,
+    "forward": "朝南",
+    "position": "麒麟门",
+    "price": 2000
+  },
+  {
+    "info": "2室1厅",
+    "area": 89,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 4200
+  },
+  {
+    "info": "2室2厅",
+    "area": 100,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 3200
+  },
+  {
+    "info": "1室1厅",
+    "area": 80,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 6500
+  },
+  {
+    "info": "3室2厅",
+    "area": 219,
+    "forward": "朝南北",
+    "position": "东山镇",
+    "price": 22000
+  },
+  {
+    "info": "3室3厅",
+    "area": 195,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 8500
+  },
+  {
+    "info": "3室2厅",
+    "area": 130,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 7500
+  },
+  {
+    "info": "2室2厅",
+    "area": 95,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 3100
+  },
+  {
+    "info": "2室2厅",
+    "area": 83,
+    "forward": "朝南",
+    "position": "禄口",
+    "price": 1200
+  },
+  {
+    "info": "3室1厅",
+    "area": 90,
+    "forward": "朝南",
+    "position": "万科翡翠公园对比",
+    "price": 4500
+  },
+  {
+    "info": "3室2厅",
+    "area": 115,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 5800
+  },
+  {
+    "info": "2室2厅",
+    "area": 75,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 3800
+  },
+  {
+    "info": "1室0厅",
+    "area": 56,
+    "forward": "朝东",
+    "position": "科学园",
+    "price": 1750
+  },
+  {
+    "info": "2室1厅",
+    "area": 75,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2200
+  },
+  {
+    "info": "2室1厅",
+    "area": 45,
+    "position": "麒麟门",
+    "price": 1800
+  },
+  {
+    "info": "2室1厅",
+    "area": 94,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 3400
+  },
+  {
+    "info": "2室1厅",
+    "area": 75,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2000
+  },
+  {
+    "info": "3室2厅",
+    "area": 89,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2500
+  },
+  {
+    "info": "1室1厅",
+    "area": 76,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 1200
+  },
+  {
+    "info": "3室2厅",
+    "area": 83,
+    "forward": "朝南北",
+    "position": "禄口",
+    "price": 1900
+  },
+  {
+    "info": "3室2厅",
+    "area": 89,
+    "forward": "朝南北",
+    "position": "禄口",
+    "price": 2300
+  },
+  {
+    "info": "3室1厅",
+    "area": 120,
+    "forward": "朝南",
+    "position": "禄口",
+    "price": 1200
+  },
+  {
+    "info": "2室1厅",
+    "area": 98,
+    "forward": "朝南",
+    "position": "禄口",
+    "price": 1000
+  },
+  {
+    "info": "3室2厅",
+    "area": 90,
+    "forward": "朝南",
+    "position": "禄口",
+    "price": 1400
+  },
+  {
+    "info": "3室2厅",
+    "area": 110,
+    "forward": "朝南北",
+    "position": "禄口",
+    "price": 1333
+  },
+  {
+    "info": "3室1厅",
+    "area": 111,
+    "forward": "朝南",
+    "position": "禄口",
+    "price": 1500
+  },
+  {
+    "info": "2室2厅",
+    "area": 77,
+    "forward": "朝南",
+    "position": "禄口",
+    "price": 1200
+  },
+  {
+    "info": "3室2厅",
+    "area": 70,
+    "forward": "朝南",
+    "position": "禄口",
+    "price": 2000
+  },
+  {
+    "info": "3室2厅",
+    "area": 83,
+    "forward": "朝南北",
+    "position": "禄口",
+    "price": 1900
+  },
+  {
+    "info": "4室2厅",
+    "area": 200,
+    "forward": "朝南",
+    "position": "禄口",
+    "price": 1333
+  },
+
+  {
+    "info": "1室1厅",
+    "area": 41,
+    "forward": "朝南",
+    "position": "禄口",
+    "price": 1000
+  },
+  {
+    "info": "2室1厅",
+    "area": 72,
+    "forward": "朝南北",
+    "position": "禄口",
+    "price": 1500
+  },
+  {
+    "info": "3室1厅",
+    "area": 90,
+    "forward": "朝南北",
+    "position": "禄口",
+    "price": 1800
+  },
+  {
+    "info": "3室1厅",
+    "area": 87,
+    "forward": "朝南",
+    "position": "禄口",
+    "price": 1500
+  },
+  {
+    "info": "3室2厅",
+    "area": 92,
+    "forward": "朝南",
+    "position": "禄口",
+    "price": 1800
+  },
+  {
+    "info": "3室2厅",
+    "area": 86,
+    "forward": "朝南北",
+    "position": "禄口",
+    "price": 1600
+  },
+  {
+    "info": "3室2厅",
+    "area": 89,
+    "forward": "朝南北",
+    "position": "禄口",
+    "price": 2300
+  },
+  {
+    "info": "2室2厅",
+    "area": 72,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 1800
+  },
+  {
+    "info": "3室2厅",
+    "area": 88,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 3000
+  },
+  {
+    "info": "3室2厅",
+    "area": 89,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 2800
+  },
+  {
+    "info": "1室1厅",
+    "area": 45,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 2100
+  },
+  {
+    "info": "3室2厅",
+    "area": 84,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2800
+  },
+  {
+    "info": "2室1厅",
+    "area": 68,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 1800
+  },
+  {
+    "info": "1室1厅",
+    "area": 40,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2200
+  },
+  {
+    "info": "2室1厅",
+    "area": 70,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 2200
+  },
+  {
+    "info": "3室1厅",
+    "area": 98,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 2300
+  },
+  {
+    "info": "1室1厅",
+    "area": 50,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 1100
+  },
+  {
+    "info": "1室1厅",
+    "area": 43,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 1000
+  },
+  {
+    "info": "1室1厅",
+    "area": 40,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 1000
+  },
+  {
+    "info": "2室2厅",
+    "area": 91,
+    "forward": "朝南北",
+    "position": "东山镇",
+    "price": 3000
+  },
+  {
+    "info": "1室1厅",
+    "area": 39,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 1200
+  },
+  {
+    "info": "2室1厅",
+    "area": 64,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 2000
+  },
+  {
+    "info": "2室1厅",
+    "area": 46,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 2000
+  },
+  {
+    "info": "3室2厅",
+    "area": 89,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 2600
+  },
+  {
+    "info": "2室2厅",
+    "area": 101,
+    "forward": "朝南北",
+    "position": "禄口",
+    "price": 1500
+  },
+  {
+    "info": "3室1厅",
+    "area": 74,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 1800
+  },
+  {
+    "info": "2室2厅",
+    "area": 101,
+    "forward": "朝南北",
+    "position": "禄口",
+    "price": 1300
+  },
+  {
+    "info": "2室1厅",
+    "area": 68,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 1500
+  },
+  {
+    "info": "1室1厅",
+    "area": 43,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 1000
+  },
+  {
+    "info": "2室1厅",
+    "area": 65,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 1700
+  },
+
+  {
+    "info": "1室1厅",
+    "area": 43,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 1000
+  },
+  {
+    "info": "4室2厅",
+    "area": 267,
+    "forward": "朝南北",
+    "position": "开发区",
+    "price": 8500
+  },
+  {
+    "info": "5室2厅",
+    "area": 245,
+    "forward": "朝南北",
+    "position": "开发区",
+    "price": 9000
+  },
+  {
+    "info": "1室1厅",
+    "area": 50,
+    "forward": "朝北",
+    "position": "百家湖",
+    "price": 2500
+  },
+  {
+    "info": "1室1厅",
+    "area": 66,
+    "forward": "朝东南",
+    "position": "开发区",
+    "price": 2900
+  },
+  {
+    "info": "5室3厅",
+    "area": 262,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 15000
+  },
+  {
+    "info": "3室2厅",
+    "area": 115,
+    "forward": "朝南北",
+    "position": "开发区",
+    "price": 5200
+  },
+  {
+    "info": "2室2厅",
+    "area": 89,
+    "forward": "朝南",
+    "position": "开发区",
+    "price": 4000
+  },
+  {
+    "info": "2室1厅",
+    "area": 82,
+    "forward": "朝南",
+    "position": "百家湖",
+    "price": 4900
+  },
+  {
+    "info": "2室1厅",
+    "area": 67,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 3300
+  },
+  {
+    "info": "3室2厅",
+    "area": 94,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 4200
+  },
+  {
+    "info": "2室1厅",
+    "area": 68,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 1800
+  },
+  {
+    "info": "2室1厅",
+    "area": 68,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 1900
+  },
+  {
+    "info": "3室1厅",
+    "area": 77,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 2000
+  },
+  {
+    "info": "2室2厅",
+    "area": 71,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 1700
+  },
+  {
+    "info": "1室1厅",
+    "area": 44,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 1000
+  },
+  {
+    "info": "2室1厅",
+    "area": 76,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 2000
+  },
+  {
+    "info": "1室1厅",
+    "area": 40,
+    "forward": "朝南",
+    "position": "科学园",
+    "price": 1400
+  },
+  {
+    "info": "3室2厅",
+    "area": 92,
+    "forward": "朝南北",
+    "position": "东山镇",
+    "price": 2200
+  },
+  {
+    "info": "3室2厅",
+    "area": 82,
+    "forward": "朝南北",
+    "position": "科学园",
+    "price": 2400
+  },
+  {
+    "info": "3室2厅",
+    "area": 100,
+    "forward": "朝南北",
+    "position": "东山镇",
+    "price": 2200
+  },
+  {
+    "info": "3室2厅",
+    "area": 92,
+    "forward": "朝南北",
+    "position": "东山镇",
+    "price": 2200
+  },
+  {
+    "info": "1室0厅",
+    "area": 38,
+    "forward": "朝西南",
+    "position": "将军大道",
+    "price": 1950
+  },
+  {
+    "info": "1室0厅",
+    "area": 40,
+    "forward": "朝西",
+    "position": "将军大道",
+    "price": 2400
+  },
+  {
+    "info": "2室1厅",
+    "area": 86,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2600
+  },
+  {
+    "info": "2室2厅",
+    "area": 87,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2600
+  },
+  {
+    "info": "3室2厅",
+    "area": 116,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 3100
+  },
+  {
+    "info": "3室2厅",
+    "area": 95,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 2200
+  },
+  {
+    "info": "2室2厅",
+    "area": 49,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 1450
+  },
+  {
+    "info": "3户合租",
+    "area": 15,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 700
+  },
+
+  {
+    "info": "3室2厅",
+    "area": 90,
+    "forward": "朝南北",
+    "position": "麒麟门",
+    "price": 1688
+  },
+  {
+    "info": "1室1厅",
+    "area": 65,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 3400
+  },
+  {
+    "info": "3室1厅",
+    "area": 95,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 2800
+  },
+  {
+    "info": "3室1厅",
+    "area": 95,
+    "forward": "朝南北",
+    "position": "百家湖",
+    "price": 2800
+  },
+  {
+    "info": "3室2厅",
+    "area": 85,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 3000
+  },
+  {
+    "info": "3室2厅",
+    "area": 88,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 3400
+  },
+  {
+    "info": "3室2厅",
+    "area": 88,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 3400
+  },
+  {
+    "info": "2室2厅",
+    "area": 100,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 3500
+  },
+  {
+    "info": "2室1厅",
+    "area": 65,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2300
+  },
+  {
+    "info": "3室2厅",
+    "area": 140,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 4800
+  },
+  {
+    "info": "3室2厅",
+    "area": 106,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 3600
+  },
+  {
+    "info": "6室3厅",
+    "area": 280,
+    "forward": "朝南北",
+    "position": "东山镇",
+    "price": 13600
+  },
+  {
+    "info": "1室1厅",
+    "area": 45,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2100
+  },
+  {
+    "info": "3室2厅",
+    "area": 85,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 3000
+  },
+  {
+    "info": "2户合租",
+    "area": 20,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 1280
+  },
+  {
+    "info": "2户合租",
+    "area": 22,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 1230
+  },
+  {
+    "info": "2户合租",
+    "area": 25,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 1430
+  },
+  {
+    "info": "2户合租",
+    "area": 25,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 1230
+  },
+  {
+    "info": "1室1厅",
+    "area": 44,
+    "forward": "朝北",
+    "position": "岔路口",
+    "price": 2300
+  },
+  {
+    "info": "1室1厅",
+    "area": 55,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2400
+  },
+  {
+    "info": "1室1厅",
+    "area": 36,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 1800
+  },
+  {
+    "info": "2室1厅",
+    "area": 65,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2600
+  },
+  {
+    "info": "2室2厅",
+    "area": 80,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 3000
+  },
+  {
+    "info": "2室1厅",
+    "area": 78,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2700
+  },
+  {
+    "info": "1室1厅",
+    "area": 42,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2200
+  },
+  {
+    "info": "1室1厅",
+    "area": 52,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 1650
+  },
+  {
+    "info": "1室1厅",
+    "area": 45,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2000
+  },
+  {
+    "info": "2室1厅",
+    "area": 65,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2500
+  },
+  {
+    "info": "2室1厅",
+    "area": 68,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2500
+  },
+  {
+    "info": "1室0厅",
+    "area": 15,
+    "position": "江宁大学城",
+    "price": 1000
+  },
+
+  {
+    "info": "1室0厅",
+    "area": 20,
+    "position": "江宁大学城",
+    "price": 1100
+  },
+  {
+    "info": "4室1厅",
+    "area": 120,
+    "forward": "朝南",
+    "position": "江宁大学城",
+    "price": 1400
+  },
+  {
+    "info": "1室1厅",
+    "area": 41,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 1600
+  },
+  {
+    "info": "3户合租",
+    "area": 18,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 900
+  },
+  {
+    "info": "3户合租",
+    "area": 18,
+    "forward": "朝南",
+    "position": "东山镇",
+    "price": 1060
+  },
+  {
+    "info": "2户合租",
+    "area": 20,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 980
+  },
+  {
+    "info": "2户合租",
+    "area": 18,
+    "forward": "朝南",
+    "position": "岔路口",
+    "price": 1000
+  },
+  {
+    "info": "2室1厅",
+    "area": 77,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2800
+  },
+  {
+    "info": "3室1厅",
+    "area": 88,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2400
+  },
+  {
+    "info": "2室2厅",
+    "area": 86,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2800
+  },
+  {
+    "info": "2室1厅",
+    "area": 63,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2700
+  },
+  {
+    "info": "3室3厅",
+    "area": 109,
+    "forward": "朝南北",
+    "position": "汤山",
+    "price": 700
+  },
+  {
+    "info": "3室3厅",
+    "area": 100,
+    "forward": "朝南北",
+    "position": "汤山",
+    "price": 1400
+  },
+  {
+    "info": "2室2厅",
+    "area": 90,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2900
+  },
+  {
+    "info": "3室0厅",
+    "area": 112,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 3100
+  },
+  {
+    "info": "2室1厅",
+    "area": 47,
+    "forward": "朝东西",
+    "position": "岔路口",
+    "price": 3000
+  },
+  {
+    "info": "1室1厅",
+    "area": 40,
+    "forward": "朝北",
+    "position": "岔路口",
+    "price": 2000
+  },
+  {
+    "info": "1室1厅",
+    "area": 50,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2000
+  },
+  {
+    "info": "3室2厅",
+    "area": 95,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 2800
+  },
+  {
+    "info": "2室2厅",
+    "area": 91,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 3000
+  },
+  {
+    "info": "2室1厅",
+    "area": 104,
+    "forward": "朝南北",
+    "position": "岔路口",
+    "price": 3800
+  }
+]
