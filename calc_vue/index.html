@@ -52,21 +52,27 @@
             border: 1px solid #666;
             text-align: center;
             cursor: pointer;
+            user-select: none;
         }
     </style>
 </head>
 <body>
 <div id="app">
     <div class="top">
-        <div class="enter" v-html="enter"></div>
-        <div class="result" v-html="result"></div>
+        <div class="enter"
+             v-html="enter"></div>
+        <div class="result"
+             v-html="result"></div>
     </div>
     <div class="keys">
         <div class="list">
             <keyboard
-                    v-for="item in keys"
+                    v-for="(item, index) in keys"
+                    v-bind:key="index"
                     v-bind:value="item"
+                    v-on:emit-event="testEmit"
             ></keyboard>
+            <!--                    监听自定义事件-->
         </div>
     </div>
 </div>
