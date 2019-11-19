@@ -25,7 +25,7 @@ const store = new Vuex.Store({
                     state.enter += v
                 }
             } else {
-                state.enter = String(Number(en + v))
+                state.enter += v
             }
         }
     },
